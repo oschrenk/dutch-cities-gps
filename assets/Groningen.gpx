@@ -1,0 +1,481 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.850000" lon="7.080000"><name>MUNNIKENMOER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="7.050000"><name>WEERDINGERMOND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="7.070000"><name>MATEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="7.080000"><name>BURGEMEESTER BEINSDORP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="7.120000"><name>DE BRUIL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.250000"><name>DOLDERSUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="7.070000"><name>TER APEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="7.120000"><name>LAUDERMARKE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="7.050000"><name>TER APELKANAAL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="7.080000"><name>TER HAAR</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="7.100000"><name>ROELAGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="7.030000"><name>JIPSINGBOERMUSSEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="7.100000"><name>VEERSTER VELDHUIS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="7.150000"><name>WESSINGTANGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="7.020000"><name>MUSSELKANAAL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="7.050000"><name>BRAAMBERG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="7.120000"><name>BORGERTANGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="7.130000"><name>TER BORG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="7.150000"><name>ZUIDVELD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="7.030000"><name>MUSSEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="7.070000"><name>KOPSTUKKEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="7.080000"><name>SELLINGERBEETSE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="7.150000"><name>SELLINGEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.980000"><name>CERESDORP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="7.030000"><name>OOMSBERG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="7.050000"><name>ZAADSTUKKEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="7.100000"><name>JIPSINGBOERTANGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="7.150000"><name>SELLINGERZWARTEVEEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="7.170000"><name>OVER DE DIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="7.000000"><name>VLEDDERVEEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="7.050000"><name>VOSSEBERG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="7.070000"><name>BLEKSLAGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="7.130000"><name>LOKSTREEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="7.150000"><name>PLAGGENBORG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.920000"><name>STADSKANAAL</name><cmt>PROV: GRONINGEN, INW: 33632</cmt><desc>PROV: GRONINGEN, INW: 33632</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="7.000000"><name>TER MAARSCH</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="7.030000"><name>VLEDDERHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="7.080000"><name>HARPEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="7.130000"><name>WEENDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="7.150000"><name>WOLLINGHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="7.170000"><name>WOLLINGBOERMARKE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="7.200000"><name>DE PALLERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.930000"><name>DWARSDIEP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.020000"><name>VEENHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.070000"><name>BARLAGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.100000"><name>ELLERSINGHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.130000"><name>VLAGTWEDDER-VELDHUIS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.150000"><name>WEITE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.170000"><name>STOBBEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.180000"><name>STAKENBORG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="7.200000"><name>BOURTANGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.920000"><name>HOETMANSMEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.930000"><name>ZUIDERKOLONIE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="7.050000"><name>ONSTWEDDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="7.070000"><name>STERENBORG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="7.080000"><name>TER WUPPING</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="7.100000"><name>VEELE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="7.120000"><name>VLAGTWEDDE</name><cmt>PROV: GRONINGEN, INW: 16558</cmt><desc>PROV: GRONINGEN, INW: 16558</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="7.170000"><name>HEBRECHT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.900000"><name>WILDERVANKSTERDALLEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.920000"><name>NUMMER DERTIEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="7.000000"><name>ALTEVEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="7.020000"><name>TANGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="7.070000"><name>HOFTE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="7.080000"><name>WESSINGHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="7.130000"><name>VEELERVEEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="7.000000"><name>KRUISELWERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="7.050000"><name>HOORNDERVEEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="7.080000"><name>WEDDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="7.120000"><name>WEDDERHEIDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="7.180000"><name>RHEDERVELD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.870000"><name>WILDERVANK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.920000"><name>OMMELANDERWIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.980000"><name>NIEUWE PEKELA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="7.070000"><name>WEDDERVEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="7.170000"><name>RHEDERBRUG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.350000"><name>DE HASPEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.870000"><name>SORGHVLIET</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.880000"><name>VEENDAM</name><cmt>PROV: GRONINGEN, INW: 28304</cmt><desc>PROV: GRONINGEN, INW: 28304</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.930000"><name>ZUIDWENDING</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="7.020000"><name>OUDE PEKELA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="7.030000"><name>BRONSVEEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="7.050000"><name>TJABBESOORD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="7.070000"><name>MORIGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="7.080000"><name>ZANDSTROOM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.200000"><name>TRIMUNT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.230000"><name>WILP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.280000"><name>KEUNINGSWIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.330000"><name>VELDSTREEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.350000"><name>BOERENSTREEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.370000"><name>BLAUW</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.750000"><name>VOSSENBURG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.780000"><name>WINDEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.820000"><name>BORGERCOMPAGNIE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.920000"><name>KORTE AKKERS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.970000"><name>KIBBELGAREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="7.020000"><name>ZUIDERVEEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="7.030000"><name>WESTEIND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="7.080000"><name>BLIJHAM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="7.170000"><name>BELLINGWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="7.200000"><name>DE LETHE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.230000"><name>DE HAAR</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.280000"><name>WILLEMSTAD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.300000"><name>JONKERSVAART</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.350000"><name>ZEVENHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.370000"><name>OOST INDIE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.630000"><name>GLIMMEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.670000"><name>NOORDLAREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.730000"><name>WOLFSBERGEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.750000"><name>NIEUWE COMPAGNIE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.770000"><name>KIEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.780000"><name>LULA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.830000"><name>TRIPSCOMPAGNIE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.870000"><name>MUNTENDAM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.920000"><name>BOVEN VEENSLOOT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.930000"><name>MEEDEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.950000"><name>BOVENSTREEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="7.020000"><name>SINT VITUSHOLT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="7.050000"><name>WINSCHOTERHOOGEBRUG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="7.100000"><name>WINSCHOTERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="7.150000"><name>OUDESCHANS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="7.170000"><name>HAM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.230000"><name>ZETHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.270000"><name>MARUM</name><cmt>PROV: GRONINGEN, INW: 10140</cmt><desc>PROV: GRONINGEN, INW: 10140</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.300000"><name>NUIS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.370000"><name>DIEPSWAL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.600000"><name>LUTSBORG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.620000"><name>HARENERMOLEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.650000"><name>ONNEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.730000"><name>KROPSWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.780000"><name>KALKWIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.870000"><name>TUSSCHENLOEGEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.900000"><name>DUURKENAKKER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.980000"><name>WESTERLEE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="7.000000"><name>TRANENDAL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="7.020000"><name>NAPELS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="7.030000"><name>WINSCHOTEN</name><cmt>PROV: GRONINGEN, INW: 18753</cmt><desc>PROV: GRONINGEN, INW: 18753</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="7.130000"><name>DE BULT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="7.150000"><name>KOUDEHOEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.180000"><name>TOPWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.200000"><name>OPENDE-ZUID</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.220000"><name>OPENDE-OOST</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.250000"><name>NOORDWIJK</name><cmt>PROV: GRONINGEN, INW: ONBEKEND</cmt><desc>PROV: GRONINGEN, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.280000"><name>HAMRIK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.330000"><name>NIEBERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.350000"><name>DE HOLM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.370000"><name>TOLBERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.380000"><name>LEEK</name><cmt>PROV: GRONINGEN, INW: 19349</cmt><desc>PROV: GRONINGEN, INW: 19349</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.580000"><name>HOORNSEDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.600000"><name>HAREN</name><cmt>PROV: GRONINGEN, INW: 18644</cmt><desc>PROV: GRONINGEN, INW: 18644</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.630000"><name>FELLAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.720000"><name>FOXHOLSTERBOSCH</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.730000"><name>MARTENSHOEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.770000"><name>HOOGEZAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.800000"><name>SAPPEMEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.820000"><name>SAPPEMEER NOORD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.830000"><name>WESTEIND0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.850000"><name>OOSTEINDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.870000"><name>ZUIDBRUEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.880000"><name>UITERBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.970000"><name>SCHEEMDA</name><cmt>PROV: GRONINGEN, INW: 14349</cmt><desc>PROV: GRONINGEN, INW: 14349</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.980000"><name>SCHEEMDERMEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="7.070000"><name>OOSTEREINDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="7.130000"><name>ULSDA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="7.170000"><name>HAMDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="7.180000"><name>BOONESCHANS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.250000"><name>KORNHORNE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.300000"><name>LUCASWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.330000"><name>BOERAKKER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.400000"><name>MIDWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.650000"><name>WATERHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.680000"><name>WESTERBROEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.720000"><name>BORGWEG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.730000"><name>KOLHAM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.770000"><name>BUITENHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.780000"><name>ACHTERDIEP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.830000"><name>VEENHUIZEN0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.850000"><name>HET VEEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.950000"><name>SCHEEMDERZWAAG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="7.030000"><name>NIESOORD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="7.050000"><name>MEERLAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="7.070000"><name>EKAMP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="7.100000"><name>BEERTA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="7.130000"><name>BEERSTERHOOGEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="7.170000"><name>NIEUW-BEERTA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="7.200000"><name>OUDEZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.230000"><name>HET PEEBOS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.250000"><name>DOEZUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.300000"><name>DE JOUWER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.330000"><name>BAKKEROM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.350000"><name>'T KRET</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.380000"><name>PASOP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.430000"><name>OOSTWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.520000"><name>PEIZERWEG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.600000"><name>ESSEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.630000"><name>ROODEHAAN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.700000"><name>SCHARMER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.770000"><name>RUITEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.780000"><name>FROOMBOSCH</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.850000"><name>STOOTSHORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.870000"><name>NOORDBROEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="7.000000"><name>MIDWOLDA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="7.050000"><name>OOSTWOLDE0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="7.070000"><name>KROMME ELLEBOOG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="7.080000"><name>FINSTERWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="7.120000"><name>GANZENDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="7.180000"><name>HARDENBERG</name><cmt>PROV: GRONINGEN, INW: ONBEKEND</cmt><desc>PROV: GRONINGEN, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="7.220000"><name>OUDE STATENZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.280000"><name>GROOTEGAST</name><cmt>PROV: GRONINGEN, INW: 12261</cmt><desc>PROV: GRONINGEN, INW: 12261</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.300000"><name>SEBALDEBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.320000"><name>KUZEMERBALK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.330000"><name>OLDEKERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.350000"><name>SMIDSHORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.420000"><name>ENUMATIL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.470000"><name>POFFERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.480000"><name>VIERVERLATEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.500000"><name>HOOGKERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.550000"><name>GRONINGEN</name><cmt>PROV: GRONINGEN, INW: 175569</cmt><desc>PROV: GRONINGEN, INW: 175569</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.600000"><name>EUVELGUNNE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.630000"><name>MIDDELBERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.650000"><name>ENGELBERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.700000"><name>HARKSTEDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.750000"><name>WOUDBLOEM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.800000"><name>SLOCHTEREN</name><cmt>PROV: GRONINGEN, INW: 15026</cmt><desc>PROV: GRONINGEN, INW: 15026</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.880000"><name>KORENGARST</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.920000"><name>NOORDBROEKSTERHAMRIK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.950000"><name>WAAR</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="7.050000"><name>OOSTWOLDERPOLDER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="7.130000"><name>HONGERIGE WOLF</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="7.170000"><name>OUDEDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.230000"><name>DORP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.250000"><name>MIEDEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.270000"><name>LUTJEGAST</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.320000"><name>WESTERZAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.330000"><name>OOSTERZAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.350000"><name>NIEKERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.380000"><name>FAAN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.400000"><name>DIEPSWAL0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.430000"><name>HOOGEMEEDEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.450000"><name>HORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.480000"><name>LEEGKERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.630000"><name>RUISCHERBRUG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.720000"><name>LAGELAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.750000"><name>SCHAAPHOK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.780000"><name>DENEMARKEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.820000"><name>SCHILDWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.850000"><name>HELLUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.970000"><name>WESTEIND1</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="7.200000"><name>NIEUWE STATENZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.250000"><name>EIBERTBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.280000"><name>WESTERHORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.300000"><name>BUIKSTEDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.320000"><name>GAARKEUKEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.380000"><name>WESTERGAST</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.400000"><name>ZUIDHORN</name><cmt>PROV: GRONINGEN, INW: 18167</cmt><desc>PROV: GRONINGEN, INW: 18167</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.470000"><name>ADUARDERVOORWERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.480000"><name>NIEUWKLAP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.500000"><name>SLAPERSTIL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.520000"><name>PADDEPOEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.550000"><name>SELWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.570000"><name>NOORDERHOOGEBRUG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.600000"><name>BEIJUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.630000"><name>NOORDDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.650000"><name>LAGEWEG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.670000"><name>ZEVENHUIZEN0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.750000"><name>LUDDEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.870000"><name>SIDDEBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.920000"><name>OOSTWOLDE1</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.930000"><name>WAGENBORGEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.980000"><name>NIEUWOLDA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="7.000000"><name>OOSTEIND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="7.020000"><name>OOSTWOLDERHAMRIK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.250000"><name>VISVLIET</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.300000"><name>GRIJPSKERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.350000"><name>NIEZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.370000"><name>OKSWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.400000"><name>NOORDHORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.430000"><name>HAM0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.470000"><name>FRANSUMMERVOORWERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.500000"><name>WIERUMERSCHOUW</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.520000"><name>WIERUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.530000"><name>ADORP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.550000"><name>HARSSENS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.600000"><name>ZUIDWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.650000"><name>THEZINGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.670000"><name>BOVENRIJGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.720000"><name>BOUWERSCHAP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.730000"><name>WOLTERSUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.780000"><name>PAUWEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.850000"><name>STEENDAM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.870000"><name>GAARLAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.920000"><name>WILDERHOF</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.950000"><name>KOPAF</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.970000"><name>ZOMERDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="7.030000"><name>WOLDENDORP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.270000"><name>PIETERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.330000"><name>KOMMERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.350000"><name>HEEREBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.370000"><name>NIEHOVE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.380000"><name>FRYTUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.430000"><name>SUTTUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.450000"><name>HARDEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.470000"><name>BESWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.480000"><name>BRILLERIJ</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.500000"><name>OOSTUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.520000"><name>HEKKUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.550000"><name>SAUWERDERMEEDEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.620000"><name>ELLERHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.650000"><name>ACHTER-THESINGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.680000"><name>TEN BOER</name><cmt>PROV: GRONINGEN, INW: 7461</cmt><desc>PROV: GRONINGEN, INW: 7461</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.750000"><name>WITTEWIERUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.780000"><name>OVER 'T SCHILD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.880000"><name>TJUCHEM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.920000"><name>OPMEEDEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.930000"><name>SCHAAPBULTEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="6.980000"><name>OTERDUMERWARVEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="7.000000"><name>LALLEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="7.020000"><name>LESTERHUIS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.280000" lon="7.050000"><name>BAAMSUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.300000"><name>HOEKJE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.350000"><name>KORHORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.370000"><name>AALSUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.380000"><name>KENWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.400000"><name>SELWERD0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.470000"><name>FEERWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.480000"><name>BOLSHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.500000"><name>KRASSUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.530000"><name>WETSINGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.600000"><name>BEDUM</name><cmt>PROV: GRONINGEN, INW: 10916</cmt><desc>PROV: GRONINGEN, INW: 10916</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.620000"><name>SINT ANNERHUISJES</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.630000"><name>HET REIDLAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.650000"><name>LUTJEWOLDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.670000"><name>SINT ANNEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.730000"><name>TEN POST</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.780000"><name>HOEKSMEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.850000"><name>LASKWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="6.980000"><name>HEVESKESKLOOSTER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="7.020000"><name>WARTUMERKLAP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="7.030000"><name>TERMUNTERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="7.050000"><name>TERMUNTEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="7.070000"><name>DALLINGEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.300000" lon="7.080000"><name>FIMEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.300000"><name>LAUWERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.320000"><name>DE RUIGEWAARD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.330000"><name>RUIGEZAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.350000"><name>ELECTRA</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.370000"><name>LAMMERBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.400000"><name>ENGLUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.420000"><name>SAAXUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.450000"><name>EZINGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.470000"><name>ADUARDERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.500000"><name>ALINGHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.520000"><name>BELLINGEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.580000"><name>WESTERDIJKSHORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.630000"><name>TER LAAN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.700000"><name>STEDUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.720000"><name>HEMERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.750000"><name>WINNEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.770000"><name>MERUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.780000"><name>WIRDUMERDRAAI</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.800000"><name>EEKWERDERDRAAI</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.820000"><name>GARREWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.830000"><name>TJAMSWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.870000"><name>SOLWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.880000"><name>OPWIERDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.900000"><name>TUIKWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.930000"><name>GEEFSWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="6.950000"><name>WEIWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.320000" lon="7.000000"><name>OTERDUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.300000"><name>ZOUTKAMP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.350000"><name>HOUWERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.380000"><name>ZUURDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.430000"><name>ROODEHAAN0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.450000"><name>SCHOUWERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.480000"><name>SCHILLIGEHAM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.520000"><name>WINSUM</name><cmt>PROV: GRONINGEN, INW: 14050</cmt><desc>PROV: GRONINGEN, INW: 14050</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.580000"><name>ONDERWIERUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.600000"><name>ONDERDENDAM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.630000"><name>FRAAMKLAP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.650000"><name>WESTERWIJTWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.700000"><name>DE HAR</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.730000"><name>STORK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.750000"><name>LOPPERSUM</name><cmt>PROV: GRONINGEN, INW: 11049</cmt><desc>PROV: GRONINGEN, INW: 11049</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.780000"><name>ENUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.820000"><name>OOSTERWIJTWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.880000"><name>MARSUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.900000"><name>UITWIERDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.330000" lon="6.920000"><name>DELFZYL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.300000"><name>MIDHALM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.330000"><name>NIEKERK0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.400000"><name>STORT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.430000"><name>WARFHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.450000"><name>KLEIN MAARSLAG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.470000"><name>MENSINGEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.500000"><name>MAARHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.520000"><name>RANUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.530000"><name>TINALLINGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.550000"><name>VENNEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.630000"><name>TORENWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.650000"><name>MIDDELSTUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.680000"><name>HUIZINGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.700000"><name>VIERBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.720000"><name>WESTERENDEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.770000"><name>ZEERIJP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.800000"><name>LUTJERIJP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.830000"><name>ARWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.850000"><name>NIJENKLOOSTER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.350000" lon="6.880000"><name>NANSUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.300000"><name>VIERHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.330000"><name>ULRUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.350000"><name>KLEI</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.380000"><name>LEENS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.420000"><name>WEHE-DEN HOORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.470000"><name>EENRUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.520000"><name>RASQUERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.600000"><name>STITSWERD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.630000"><name>KANTENS</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.720000"><name>GARSTHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.780000"><name>'T ZANDT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.820000"><name>GODLINZE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.830000"><name>LOSDORP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.850000"><name>OLDENKLOOSTER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.370000" lon="6.880000"><name>UITEINDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.370000"><name>HORNHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.380000"><name>KRUISWEG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.400000"><name>KLOOSTERBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.420000"><name>MOLENRIJ</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.430000"><name>NIJENKLOOSTER0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.480000"><name>SAAXUMHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.520000"><name>DEN ANDEL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.530000"><name>BREEDE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.550000"><name>WESTERVALGE</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.620000"><name>ROTTUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.670000"><name>DE KNIJP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.680000"><name>ZANDEWEER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.700000"><name>STARTENHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.770000"><name>'T ZANDSTERVOORWERK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.830000"><name>SPIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.380000" lon="6.870000"><name>HOOGWATUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.400000"><name>WESTERKLOOSTER</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.430000"><name>WIERHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.450000"><name>PIETERBUREN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.470000"><name>OUDEDIJK0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.480000"><name>WESTERNIELAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.570000"><name>WARFUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.600000"><name>WESTERHORN0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.620000"><name>USQUERT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.650000"><name>OLDORP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.670000"><name>DOODSTIL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.720000"><name>OLDENZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.750000"><name>OOSTERNIELAND</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.770000"><name>ZIJLDIJK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.780000"><name>KOLHOL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.830000"><name>DEKKERSHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.850000"><name>TWEEHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.870000"><name>VIERHUIZEN0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.400000" lon="6.880000"><name>NIEUWSTAD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.200000"><name>LAUWERSOOG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.630000"><name>DE STREEK</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.650000"><name>KATERSHORN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.670000"><name>UITHUIZEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.730000"><name>UITHUIZERMEEDUM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.770000"><name>ROODESCHOOL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.780000"><name>HOOILANDSEWEG</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.800000"><name>OOSTEINDE0</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.850000"><name>NOOITGEDACHT</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.420000" lon="6.870000"><name>POLEN</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.430000" lon="6.580000"><name>NOORDPOLDERZIJL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.430000" lon="6.750000"><name>HEFSWAL</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.430000" lon="6.800000"><name>KONINGSOORD</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.430000" lon="6.830000"><name>OUDESCHIP</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.450000" lon="6.720000"><name>VALOM</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.450000" lon="6.770000"><name>HEUVELDERIJ</name><cmt>PROV: GRONINGEN, INW: -</cmt><desc>PROV: GRONINGEN, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>

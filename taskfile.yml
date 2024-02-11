@@ -1,0 +1,62 @@
+version: '3'
+dotenv: ['VERSION']
+vars:
+  APP_NAME: "dutch-cities-gps"
+  RELEASE_DIR: "./.release"
+  BUILD_TARGET: "./{{.APP_NAME}}"
+  ASSETS_PATH: "./assets"
+  CSV_PATH: "./{{.RELEASE_DIR}}/cities.csv"
+tasks:
+  run:
+    cmds:
+      - go run main.go
+    silent: true
+  check:
+    cmds:
+      - staticcheck ./...
+  tidy:
+    cmds:
+      - go mod tidy
+  lint:
+    deps: [check, tidy]
+  build:
+    requires:
+      vars: [BUILD_TARGET]
+    cmds:
+      - go build -v -o "{{.BUILD_TARGET}}"
+    silent: true
+  install:
+    cmds:
+      - go install
+    silent: true
+  artifacts:
+    requires:
+      vars: [APP_NAME, BUILD_TARGET, RELEASE_DIR, ASSETS_PATH, CSV_PATH]
+    cmds:
+      - mkdir -p {{.RELEASE_DIR}}
+      - GOOS=darwin GOARCH=arm64 go build -v -o {{.RELEASE_DIR}}/{{.APP_NAME}}-darwin-arm64
+      - GOOS=darwin GOARCH=amd64 go build -v -o {{.RELEASE_DIR}}/{{.APP_NAME}}-darwin-amd64
+      - ./{{.BUILD_TARGET}} -gpx={{.ASSETS_PATH}} -csv={{.CSV_PATH}}
+    deps: [tidy, build]
+  tag:
+    deps: [artifacts]
+    cmds:
+      - git tag "$APP_VERSION"
+      - git push origin "$APP_VERSION"
+  release:
+    requires:
+      vars: [APP_NAME, RELEASE_DIR, CSV_PATH]
+    deps: [tag]
+    cmds:
+      - gh release create --generate-notes "$APP_VERSION" {{.RELEASE_DIR}}/{{.APP_NAME}}-* {{.CSV_PATH}}
+  sha:
+    requires:
+      vars: [APP_NAME, RELEASE_DIR]
+    cmds:
+      - sha256sum {{.RELEASE_DIR}}/{{.APP_NAME}}-*
+  clean:
+    requires:
+      vars: [BUILD_TARGET, RELEASE_DIR]
+    cmds:
+      - rm -rf {{.BUILD_TARGET}}
+      - rm -rf {{.RELEASE_DIR}}

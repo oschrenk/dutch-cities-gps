@@ -1,0 +1,443 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.130000" lon="6.720000"><name>LANGELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.130000" lon="6.850000"><name>DEN BRAAM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.130000" lon="6.870000"><name>HARMOLEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.150000" lon="6.680000"><name>BRAMMELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.150000" lon="6.730000"><name>HAAKSBERGEN</name><cmt>PROV: OVERIJSSEL, INW: 24193</cmt><desc>PROV: OVERIJSSEL, INW: 24193</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.150000" lon="6.750000"><name>HONESCH</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.150000" lon="6.830000"><name>BUURSE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.170000" lon="6.700000"><name>HOLTHUIZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.180000" lon="6.530000"><name>WESTERVLIER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.180000" lon="6.620000"><name>MARKVELDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.180000" lon="6.700000"><name>SINT ISIDORUSHOEVE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.180000" lon="6.720000"><name>EPPENZOLDER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.180000" lon="6.750000"><name>VELDMAAT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.180000" lon="6.800000"><name>RUTBEKE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.180000" lon="6.870000"><name>BROEKHEURNE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.480000"><name>STOKKUMERBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.550000"><name>DIEPENHEIM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.570000"><name>KERSPEL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.630000"><name>HENGEVELDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.730000"><name>STEPELO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.800000"><name>BOEKELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.830000"><name>USSELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.880000"><name>WESSELERBRINK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.200000" lon="6.900000"><name>STROINKSLANDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="6.520000"><name>STOKKUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="6.600000"><name>WEGDAM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="6.650000"><name>KWARTIERSDORP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="6.750000"><name>BEKKUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="6.900000"><name>ENSCHEDE</name><cmt>PROV: OVERIJSSEL, INW: 151346</cmt><desc>PROV: OVERIJSSEL, INW: 151346</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="6.950000"><name>DOLPHIA</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="6.980000"><name>GLANERBRUG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.230000"><name>OXE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.280000"><name>DORTHERHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.320000"><name>ZUIDLOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.430000"><name>MARKELOSE BROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.500000"><name>MARKELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.580000"><name>GOOR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.680000"><name>BENTELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.820000"><name>TWEKKELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="6.950000"><name>NOORD-ESMARKE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="7.000000"><name>GLANE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="7.030000"><name>OVERDINKEL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.200000"><name>SNIPPELING</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.220000"><name>KOLMSCHATE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.280000"><name>OUDE MOLEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.300000"><name>APENHUIZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.330000"><name>LOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.480000"><name>ACHTERHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.520000"><name>POTHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.530000"><name>HERIKE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.620000"><name>ZELDAM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.650000"><name>WIENE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.720000"><name>VOSSENBRINK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.750000"><name>OELE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.870000"><name>HOF ESPELO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.920000"><name>LONNEKER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="6.950000"><name>KUIPERSHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="7.000000"><name>ZOEKE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.100000"><name>SPEKHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.200000"><name>SCHALKHAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.230000"><name>RIELE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.330000"><name>PIERIKSMARS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.420000"><name>BEUSEBERG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.530000"><name>SCHOOLBUURT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.580000"><name>ELZENERBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.720000"><name>DELDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.770000"><name>WOOLDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.800000"><name>HENGELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="6.850000"><name>GROOT DRIENE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="7.020000"><name>LOSSER</name><cmt>PROV: OVERIJSSEL, INW: 22703</cmt><desc>PROV: OVERIJSSEL, INW: 22703</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.220000"><name>FRIESWIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.270000"><name>LINDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.350000"><name>DIJKERHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.400000"><name>NEERDORP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.430000"><name>LOOK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.470000"><name>DE BORKELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.700000"><name>DELDENERESCH</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.770000"><name>ACHTERHOEK0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="6.820000"><name>HASSELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.130000"><name>RANDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.150000"><name>MOLENBELT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.170000"><name>TJOENE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.200000"><name>AVERLOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.320000"><name>OKKENBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.520000"><name>RIJSSEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.580000"><name>ENTER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.630000"><name>ENTERBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.670000"><name>DELDENERBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.720000"><name>AZELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.750000"><name>BORNE</name><cmt>PROV: OVERIJSSEL, INW: 20729</cmt><desc>PROV: OVERIJSSEL, INW: 20729</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="6.830000"><name>DEURNINGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.080000"><name>WELSUMERVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.130000"><name>HENGVORDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.170000"><name>EIKELHOF</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.270000"><name>OP DE HOOGEWEGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.350000"><name>NIEUW-HEETEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.380000"><name>ESPELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.400000"><name>HELHUIZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.470000"><name>LIGTENBERG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.600000"><name>YPELO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.650000"><name>BORNERBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.700000"><name>TUSVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.730000"><name>ZENDEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.770000"><name>HERTMEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.850000"><name>GAMMELKE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.920000"><name>OLDENZAAL</name><cmt>PROV: OVERIJSSEL, INW: 31180</cmt><desc>PROV: OVERIJSSEL, INW: 31180</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="6.980000"><name>LUTTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="7.030000"><name>POPPE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.100000"><name>WELSUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.120000"><name>OLST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.130000"><name>BOSKAMP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.220000"><name>WEZEPE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.280000"><name>HETEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.470000"><name>HEXEL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.500000"><name>ZUNA</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.520000"><name>NOTTER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.570000"><name>REKTUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.670000"><name>NIJREES</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.680000"><name>BAVINKEL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.730000"><name>WELEVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.780000"><name>'T LOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.800000"><name>DULDER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.820000"><name>ZOEKE0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="6.900000"><name>LEMSELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.150000"><name>OVERWETTERING</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.180000"><name>MIDDELER VELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.250000"><name>PLEEGSTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.300000"><name>SCHOONHETEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.580000"><name>HUURNE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.670000"><name>ALMELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.700000"><name>WATEREGGE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.730000"><name>BROEKZIJDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.750000"><name>DEMMERSHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.800000"><name>WESTERIK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.820000"><name>NOORDIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.830000"><name>BEEKDORP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.850000"><name>WEERSELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.870000"><name>NIJSTAD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="6.930000"><name>ROSSUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="7.000000"><name>BEUNINGEN</name><cmt>PROV: OVERIJSSEL, INW: ONBEKEND</cmt><desc>PROV: OVERIJSSEL, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.080000"><name>FORTMOND</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.120000"><name>DUUR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.150000"><name>WENGELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.170000"><name>HENGEVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.200000"><name>BROEKLAND</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.300000"><name>BOETELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.380000"><name>HAARLE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.470000"><name>NIJVERDAL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.580000"><name>'T LOO0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.600000"><name>WIERDEN</name><cmt>PROV: OVERIJSSEL, INW: 23429</cmt><desc>PROV: OVERIJSSEL, INW: 23429</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.630000"><name>AADORP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.650000"><name>HAGHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.680000"><name>SLUITERSVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.770000"><name>ALBERGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.800000"><name>RIKMANSBRUG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="6.950000"><name>VOLTHERBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="7.020000"><name>MEKKELHORST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.130000"><name>WIJHE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.150000"><name>BOERHAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.180000"><name>TONGEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.250000"><name>RAMELE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.280000"><name>RAALTE</name><cmt>PROV: OVERIJSSEL, INW: 36632</cmt><desc>PROV: OVERIJSSEL, INW: 36632</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.320000"><name>MARIENHEEM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.450000"><name>HELLENDOORN</name><cmt>PROV: OVERIJSSEL, INW: 36011</cmt><desc>PROV: OVERIJSSEL, INW: 36011</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.470000"><name>HULZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.670000"><name>DE AA</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.700000"><name>MARIAPAROCHIE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.720000"><name>KLOSSEHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.750000"><name>ASSINKSHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="6.800000"><name>FLERINGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="7.000000"><name>DENEKAMP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.150000"><name>WIJNVOORDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.200000"><name>ELSHOF</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.230000"><name>VELNERHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.300000"><name>TIJENRAAN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.320000"><name>LINDERTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.370000"><name>LUTTENBERG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.530000"><name>DE KOLONIE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.580000"><name>'T HOOGE HEKSEL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.680000"><name>WEITEMANSLANDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.830000"><name>HAARLE0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.850000"><name>REUTUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.880000"><name>GROOT-AGELOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.900000"><name>KLEIN-AGELO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="6.950000"><name>TILLIGTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="7.020000"><name>NOORDEURINGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.130000"><name>MARLE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.200000"><name>WEGTERHOLT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.280000"><name>RAARHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.450000"><name>EELEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.470000"><name>SCHUILENBURG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.520000"><name>PIKSEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.580000"><name>WESTERHOEVE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.620000"><name>VRIEZENVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.730000"><name>GEESTEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.780000"><name>TUBBERGEN</name><cmt>PROV: OVERIJSSEL, INW: 20161</cmt><desc>PROV: OVERIJSSEL, INW: 20161</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.880000"><name>NUTTER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.900000"><name>OOTMARSUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="6.920000"><name>OUD-OOTMARSUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.120000"><name>WERVEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.130000"><name>HERXEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.200000"><name>LIERDERHOLTHUIS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.230000"><name>HEINO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.250000"><name>'T RELAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.430000"><name>'T HANKALE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.450000"><name>RHAAN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.480000"><name>MARLE0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.530000"><name>DAARLE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.580000"><name>DAARLERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.670000"><name>DE POLLEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.700000"><name>WEST GEESTEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.830000"><name>VASSE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="6.980000"><name>LATTROP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.130000"><name>WINDESHEIM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.280000"><name>VELDHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.320000"><name>STRENKHAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.350000"><name>LEMELERVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.420000"><name>LEMELE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.470000"><name>HALLERHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.520000"><name>LINDE0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.780000"><name>MANDERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.830000"><name>MANDER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.870000"><name>HEZINGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="6.980000"><name>BREKLENKAMP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.120000"><name>HERKULO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.130000"><name>HOOG ZUTHEM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.170000"><name>ZUTHEM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.230000"><name>SLENNEBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.430000"><name>ARCHEM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.470000"><name>NOORD-MEER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.500000"><name>HAM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.520000"><name>MAGELE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.550000"><name>NIEUWOORD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.570000"><name>ZWARTE GAT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.620000"><name>WESTERHAAR-VRIEZENVEENSEWIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="6.720000"><name>LANGEVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="5.930000"><name>ZUIDEINDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.080000"><name>SCHELLE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.120000"><name>ITTERSUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.170000"><name>WIJTMEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.200000"><name>LENTHE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.230000"><name>HOONHORST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.370000"><name>DALMSHOLTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.420000"><name>NIEUWEBRUG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.450000"><name>ERDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.570000"><name>GEERDIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.630000"><name>SIBENLO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="6.700000"><name>BRUINEHAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.050000"><name>SPOOLDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.070000"><name>KATERVEER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.080000"><name>ZWOLLE</name><cmt>PROV: OVERIJSSEL, INW: 109000</cmt><desc>PROV: OVERIJSSEL, INW: 109000</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.130000"><name>ZALNE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.170000"><name>HERFTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.200000"><name>MARSHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.220000"><name>MATARAM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.230000"><name>EMMEN</name><cmt>PROV: OVERIJSSEL, INW: ONBEKEND</cmt><desc>PROV: OVERIJSSEL, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.270000"><name>MILLINGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.300000"><name>RECHTEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.400000"><name>GIETMEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.430000"><name>BESTMEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.550000"><name>BEERZERHAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.580000"><name>KLOOSTERDIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="6.670000"><name>KLOOSTERHAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="5.900000"><name>DE HEUVELS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="5.920000"><name>HOOGEWEG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="5.970000"><name>ZANDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.020000"><name>ZALK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.050000"><name>WESTERHOLTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.130000"><name>BERKUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.220000"><name>BROEKHUIZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.230000"><name>ANKUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.270000"><name>GERNER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.280000"><name>OOSTER-DALFSEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.300000"><name>WELSUM0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.320000"><name>HESSUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.350000"><name>VILSTEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.380000"><name>VARSEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.400000"><name>DANTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.420000"><name>ZEEZE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.430000"><name>OMMEN</name><cmt>PROV: OVERIJSSEL, INW: 16890</cmt><desc>PROV: OVERIJSSEL, INW: 16890</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.500000"><name>JUNNE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.520000"><name>STEGEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.530000"><name>BEERZE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.570000"><name>MARIENBERG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.580000"><name>OUD-BERGENTHEIM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="6.600000"><name>GOUDEN-PLOEG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="5.900000"><name>ZWARTENDIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="5.970000"><name>WILSUM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.020000"><name>VEECATEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.070000"><name>FRANKHUIS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.130000"><name>BRINKHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.250000"><name>ENGELAND</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.320000"><name>OUDLEUZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.330000"><name>HOLT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.420000"><name>ROTBRINK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.450000"><name>ARRIEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.470000"><name>HOOGENGRAVEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.620000"><name>BERGENTHEIM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.670000"><name>BRUCHTERVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="6.680000"><name>EBBENBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="5.920000"><name>KAMPEN</name><cmt>PROV: OVERIJSSEL, INW: 48394</cmt><desc>PROV: OVERIJSSEL, INW: 48394</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="6.120000"><name>LANGENHOLTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="6.130000"><name>HAERST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="6.580000"><name>RHEEZE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="6.620000"><name>BRUCHT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="5.920000"><name>IJSSELMUIDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="5.950000"><name>OOSTERHOLT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.000000"><name>BISSCHOPSWETERING</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.020000"><name>MASTENBROEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.030000"><name>OUDE WETERING</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.100000"><name>GENNE-OVERWATERS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.120000"><name>HOLTEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.250000"><name>RUITENVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.270000"><name>RUITENHUIZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.280000"><name>RANSERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.400000"><name>WITHAREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.430000"><name>ARRIERVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.530000"><name>RHEEZERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.620000"><name>STAD-HARDENBERG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.670000"><name>VENEBRUGGE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="6.730000"><name>RADEWIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="5.930000"><name>GRAFHORST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.050000"><name>NIEUWE WETERING</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.120000"><name>STREUKEL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.200000"><name>LICHTMIS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.250000"><name>DE MEELE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.280000"><name>NIEUW LEUZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.350000"><name>VINKENBUURT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.400000"><name>OMMERSCHANS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.520000"><name>STEGERVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.580000"><name>HEEMSERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="6.630000"><name>BAALDER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.000000"><name>KAMPERZEEDIJK-WEST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.020000"><name>AFSCHED</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.100000"><name>KIEVITSNEST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.250000"><name>ROLLECATE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.300000"><name>HULST</name><cmt>PROV: OVERIJSSEL, INW: ONBEKEND</cmt><desc>PROV: OVERIJSSEL, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.370000"><name>BENEDENVAART</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.380000"><name>HUIZEN</name><cmt>PROV: OVERIJSSEL, INW: ONBEKEND</cmt><desc>PROV: OVERIJSSEL, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.420000"><name>SPONTURFWIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.450000"><name>VELDZICHT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.470000"><name>NOORD-STEGEREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.580000"><name>COLLENDOORNERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.620000"><name>KOLLENDOORN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.630000"><name>ENGELAND0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.650000"><name>ANEVELDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.670000"><name>LOOZEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="6.700000"><name>VELDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.080000"><name>ROEBOLLIGEHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.120000"><name>ZWARTEWATERSKLOOSTER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.180000"><name>ROUVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.270000"><name>PUNTHORST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.320000"><name>KIEVITSHAAR</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.370000"><name>OUD-AVEREEST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.420000"><name>OOSTERHUIS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.430000"><name>STROOIENDORP</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.480000"><name>'T BERGJE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.580000"><name>LUTTEN AAN DE DEDEMSVAART</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.600000"><name>'T HAANTJE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.630000"><name>DE SCHANS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.650000"><name>ANE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.680000"><name>HOLTHEME</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.700000"><name>HAANDRIK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.050000"><name>GENEMUIDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.070000"><name>CELLEMUIDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.080000"><name>ZWARTSLUIS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.530000"><name>WITMAN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.550000"><name>SLAGHAREN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.620000"><name>LUTTERHARTJE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.670000"><name>ANERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.020000"><name>BARSBEEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.200000"><name>STAPHORST</name><cmt>PROV: OVERIJSSEL, INW: 15438</cmt><desc>PROV: OVERIJSSEL, INW: 15438</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.230000"><name>LEIJEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.330000"><name>GROOT-OEVER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.350000"><name>LUTTEN-OEVER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.550000"><name>SCHUINESLOOT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.570000"><name>LUTTERVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.650000"><name>KRIM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.680000"><name>HOLTHONE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.000000"><name>ZUURBEEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.020000"><name>HEETVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.070000"><name>BELT-SCHUTSLOOT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.120000"><name>BAARLOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.150000"><name>HAMINGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.270000"><name>HALFWEG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.950000"><name>VOLLENHOVE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.000000"><name>KLEINE-LEEUWTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.020000"><name>GROOTE LEEUWTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.030000"><name>SINT JANSKLOOSTER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.050000"><name>RONDUITE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.130000"><name>DOOSJE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.180000"><name>WESTERBUURT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.220000"><name>HESSELINGEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.230000"><name>LANKHORST</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.080000"><name>BLAUWE HAND</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.100000"><name>WESTEINDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.130000"><name>WENNEPERVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="5.970000"><name>BLOKZIJL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.030000"><name>DWARSGRACHT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.050000"><name>JONEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.080000"><name>ZUIDEINDE0</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.130000"><name>ROEKEBOSCH</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.300000"><name>WEERWILLE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.950000"><name>KUINDERDIJK EN BAARLOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.000000"><name>MUGGENBEET</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.080000"><name>MIDDENBUURT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.970000"><name>NEDERLAND</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.020000"><name>SCHERWOLDE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.100000"><name>'T KLOOSTER</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="5.900000"><name>BLANKENHAM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.000000"><name>WETERING</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.150000"><name>ONNA</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="5.830000"><name>KUINRE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="5.950000"><name>KALENBERG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.100000"><name>ZUIDVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.120000"><name>STEENWIJK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="5.920000"><name>OSSENZIJL</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="5.950000"><name>IJSSELHAM</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.030000"><name>BASSE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.070000"><name>STEENWIJKERWOLD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.100000"><name>TUK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.120000"><name>DE BERG</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.180000"><name>KALLENKOTE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="5.930000"><name>NOORDERVENERBOSCH</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="5.970000"><name>OLDEMARKT</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="5.980000"><name>HARE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.020000"><name>PAASLOO</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.030000"><name>BASSERVELD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.050000"><name>MARIJENKAMPEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.070000"><name>WITTE PAARDEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.080000"><name>BAARS</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.130000"><name>EESVEEN</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.070000"><name>WILLEMSOORD</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.120000"><name>EZE</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.050000"><name>MOLENHOEK</name><cmt>PROV: OVERIJSSEL, INW: -</cmt><desc>PROV: OVERIJSSEL, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>

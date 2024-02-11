@@ -1,0 +1,319 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.200000" lon="3.880000"><name>OVERSLAG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.220000" lon="3.870000"><name>OUDE POLDER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.220000" lon="3.880000"><name>DE STERRE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.220000" lon="3.920000"><name>RODE SLUIS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.230000" lon="3.800000"><name>SAS VAN GENT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.230000" lon="3.820000"><name>PASSLUIS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.230000" lon="3.830000"><name>WESTDORPE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.230000" lon="3.880000"><name>DE RATTE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.230000" lon="3.900000"><name>ZUIDDORPE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.230000" lon="3.970000"><name>KOEWACHT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.450000"><name>EEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.470000"><name>BIEZEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.500000"><name>VUILPAN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.520000"><name>MOERSHOOFDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.850000"><name>ZWARTENHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.900000"><name>DE MUIS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.920000"><name>DRIESCHOUWEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="3.930000"><name>NIEUWEMOLEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="4.000000"><name>DRIE HOEFIJZERS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="4.030000"><name>'T HOEKJE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="4.070000"><name>KAPPELLEBRUG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.420000"><name>HEILLE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.450000"><name>SMEDEKENSBRUGGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.500000"><name>SINT KRUIS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.750000"><name>POSTHOORN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.820000"><name>ZANDSTRAAT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.830000"><name>STROODORPE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.870000"><name>SASSING</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="3.920000"><name>AXEL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="4.000000"><name>ABTSDALE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="4.050000"><name>SINT JANSTEEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="4.100000"><name>KLINGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.450000"><name>AARDENBURG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.720000"><name>ISABELLAHAVEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.730000"><name>HAVENTJE VAN BOUCHAUTE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.770000"><name>PHILIPPINE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.830000"><name>SLUISKIL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.880000"><name>SCHAPENBOUT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.900000"><name>VAARTWIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="3.970000"><name>KIJKUIT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="4.050000"><name>HULST</name><cmt>PROV: ZEELAND, INW: 27850</cmt><desc>PROV: ZEELAND, INW: 27850</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="4.100000"><name>ZEEGAT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="4.120000"><name>STATENBOOM</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="4.130000"><name>HALFEIND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.430000"><name>DRAAIBRUG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.500000"><name>BAKKERSDAM</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.550000"><name>PLAKKEBORD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.570000"><name>STROOPUIT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.620000"><name>BALHOFSTEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.630000"><name>VELDZICHT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.670000"><name>PYRAMIDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.700000"><name>MAAGD VAN GENT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.780000"><name>ZANDPLAAT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.880000"><name>ZOUTESPUI</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.930000"><name>STEENOVENS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="3.980000"><name>LUNTERSHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="4.000000"><name>VIJFHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="4.020000"><name>PATRIJZENHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="4.070000"><name>'T JAGERTJE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="4.100000"><name>ZANDBERG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="4.170000"><name>NIEUW-NAMEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.370000"><name>SINT ANNA TER MUIDEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.380000"><name>SLUIS</name><cmt>PROV: ZEELAND, INW: 24755</cmt><desc>PROV: ZEELAND, INW: 24755</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.500000"><name>DE MUNTE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.520000"><name>KLEIN-BRABANT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.570000"><name>WATERLANDKERKJE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.580000"><name>TURKIJE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.620000"><name>PONTE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.630000"><name>PONTE-AVANCE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.720000"><name>KONINGINNEHAVEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.770000"><name>HASJESSTRAAT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.780000"><name>HOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.800000"><name>DE KNOL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.820000"><name>WULPENBEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.850000"><name>DRIEWEGEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.920000"><name>ZAAMSLAG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="3.950000"><name>ZAAMSLAGVEER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="4.030000"><name>TER HOLE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="4.050000"><name>MOLENHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="4.080000"><name>SCHELDEVAARTSHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.400000"><name>TERHOFSTEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.430000"><name>SLIKKENBURG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.470000"><name>OOSTBURGSCHE BRUG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.500000"><name>OOSTBURG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.530000"><name>STEENHOVEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.600000"><name>OUDELAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.650000"><name>NIEUWLAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.670000"><name>NIEUWLANDSCHE MOLEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.680000"><name>BIERVLIET</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.770000"><name>PARADIJS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.780000"><name>HOOGEDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.830000"><name>TERNEUZEN</name><cmt>PROV: ZEELAND, INW: 55478</cmt><desc>PROV: ZEELAND, INW: 55478</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.900000"><name>VAL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.920000"><name>ROODENHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.930000"><name>KWAKKEL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.950000"><name>POONHAVEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.970000"><name>VOGELWAARDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="3.980000"><name>VOGELFORT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="4.020000"><name>PAULUSPOLDER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="4.070000"><name>ROVERBERG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="4.100000"><name>GRAUW</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="4.150000"><name>EMMADORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="4.200000"><name>PROSPERDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.380000"><name>RETRANCHEMENT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.450000"><name>ZUIDZANDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.470000"><name>AKKERPUT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.500000"><name>SCHERPBIER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.530000"><name>VELDZICHT0</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.550000"><name>SCHOONDIJKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.580000"><name>MOLENTJE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.670000"><name>DRIEWEGEN0</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.880000"><name>GRIETE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.900000"><name>EENDRAGT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.970000"><name>KAMPERHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="3.980000"><name>OUDE STOOF</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="4.000000"><name>HENGSTDYK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="4.030000"><name>KUITAART</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="4.050000"><name>LAMSWAARDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="4.100000"><name>PAAL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.420000"><name>KADZAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.470000"><name>NIEUWVLIET</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.480000"><name>MAROLLEPUT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.600000"><name>SASPUT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.620000"><name>ROODENHOEK0</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.630000"><name>HOOGEWEG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.670000"><name>HOOFDPLAAT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="3.980000"><name>STROOIENSTAD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="4.020000"><name>TASDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="4.030000"><name>KRUISDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="4.080000"><name>BAALHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.400000"><name>KADZAND-BAD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.450000"><name>NIEUWVLIET-BAD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.470000"><name>KRUISHOOFD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.500000"><name>GROEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.530000"><name>BOERENHOL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.550000"><name>KRUISDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.600000"><name>SLIKPLAATS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.820000"><name>ELLEWOUTSDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.970000"><name>ZEEDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="3.980000"><name>OSSENISSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="4.020000"><name>NOORDSTRAAT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="4.030000"><name>WALSOORDEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="3.500000"><name>NIEUW SLUIS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="3.550000"><name>BRESKENS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="3.900000"><name>SCHELDEOORD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="3.970000"><name>KNUITERSHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="3.980000"><name>KREVERHILLE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="4.020000"><name>PERKPOLDER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="4.220000"><name>BATH</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="3.800000"><name>DRIEWEGEN1</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="3.820000"><name>KOEKOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="3.850000"><name>OUDELANDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="3.880000"><name>BAARLAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="3.900000"><name>BAKENDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="3.920000"><name>HOEDEKENSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="4.070000"><name>WAARDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="4.100000"><name>GAWEGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="4.170000"><name>STATIONSBUURT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="4.180000"><name>TWEEDEWEG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="3.730000"><name>BORSSELEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="3.820000"><name>OVEZANDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="3.880000"><name>LANGEWEEGJE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.120000"><name>KRABBENDYKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.130000"><name>ROELSHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.200000"><name>SEPARATIEDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.250000"><name>VOLCKERDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="3.580000"><name>VLISSINGEN</name><cmt>PROV: ZEELAND, INW: 45416</cmt><desc>PROV: ZEELAND, INW: 45416</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="3.630000"><name>RITTHEM</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="3.770000"><name>'S-HEERENHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="3.850000"><name>NISSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="3.900000"><name>'S-GRAVENPOLDER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.000000"><name>HANSWEERT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.030000"><name>KRUININGEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.080000"><name>OOSTDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.550000"><name>WESTHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.570000"><name>LAMMERENBURG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.580000"><name>WEST-SOUBURG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.600000"><name>SOUBERG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.670000"><name>OUDSDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.730000"><name>NIEUWEDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.770000"><name>KNAPHOF</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.780000"><name>RIJKEBUURT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.800000"><name>'T VLAANDERTJE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.880000"><name>'S-HEER-ABTSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="3.950000"><name>EVERSDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.000000"><name>SCHORE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.020000"><name>SCHOREBRUG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.520000"><name>KLEIN-VALKENISSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.550000"><name>KOUDEKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.600000"><name>NIEUW-ABEELE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.650000"><name>NIEUWLAND0</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.780000"><name>GRASZODE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.820000"><name>HEINKENSAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.830000"><name>BAARSDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.870000"><name>SMOUTSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.900000"><name>GROE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.920000"><name>ABBEKINDEREN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.930000"><name>DIJKWEL</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.950000"><name>BIEZELINGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="3.970000"><name>MAALSTEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.020000"><name>VLAKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.480000"><name>ZOUTELANDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.500000"><name>WERENDIJKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.520000"><name>BIGGEKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.620000"><name>MIDDELBURG</name><cmt>PROV: ZEELAND, INW: 45608</cmt><desc>PROV: ZEELAND, INW: 45608</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.670000"><name>ARNEMUIDEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.750000"><name>LEWEDORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.820000"><name>'S-HEER-ARENDSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.850000"><name>WISSEKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.870000"><name>'S-HEER-HENDRIKSKINDEREN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.880000"><name>GOES</name><cmt>PROV: ZEELAND, INW: 36047</cmt><desc>PROV: ZEELAND, INW: 36047</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.920000"><name>NOORDEINDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="3.930000"><name>WAANSKINDEREN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.030000"><name>YERSEKENDAM</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.050000"><name>YERSEKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.470000"><name>BOUDEWIJNSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.500000"><name>SINT JANSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.520000"><name>MELISKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.530000"><name>MARIEKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.550000"><name>POPPENDAMME</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.580000"><name>BUTTINGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.600000"><name>BRIGDAMME</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.650000"><name>SCHELLACH</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.670000"><name>KLEVERSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.750000"><name>SLUIS DE PIET</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.830000"><name>PLANKETENT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.850000"><name>BLAUWEWIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="3.950000"><name>MONNIKENDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.000000"><name>WEMELDINGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.200000"><name>MOSSELHOEK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.450000"><name>WESTKAPELLE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.570000"><name>GRIJPSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.600000"><name>SINT LAURENS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.800000"><name>OUD-SABBINGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.820000"><name>WOLPHAARTSDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.870000"><name>ROODEWIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.900000"><name>WILHELMINADORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="3.930000"><name>SAS VAN GOES</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.100000"><name>WESTKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.150000"><name>STRIJENHAM</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.200000"><name>STEENENKRUIS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.220000"><name>TOLEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="3.520000"><name>AAGTEKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="3.570000"><name>MOLEMBAIX</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="3.600000"><name>SEROOSKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="3.620000"><name>GAPINGE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="3.650000"><name>ZANDDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="3.670000"><name>VERE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="3.820000"><name>DE INLAAG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.080000"><name>SINT MAARTENSDIJK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.100000"><name>SCHERPENISSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.120000"><name>DE RAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.150000"><name>POORTVLIET</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.220000"><name>MOLENVLIET</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.230000"><name>BOTSHOOFD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.500000"><name>DOMBURG</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.550000"><name>OOSTKAPELLE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.600000"><name>MOLENPERK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.620000"><name>PITTEPERK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.700000"><name>KAMPERLAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.720000"><name>STROODORP</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.770000"><name>GEERSDIJKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.800000"><name>KOTGENE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="3.880000"><name>KATS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.100000"><name>MALLAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.200000"><name>OUD-VOSSEMEER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="3.620000"><name>VROUWENPOLDER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="3.750000"><name>WISSENKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.020000"><name>STAVENISSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="3.670000"><name>DE BANJAARD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="3.850000"><name>KOLIJNSPLAAT</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.070000"><name>RIJKEBUURT0</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.100000"><name>SINT ANNALAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.000000"><name>VIANEN</name><cmt>PROV: ZEELAND, INW: ONBEKEND</cmt><desc>PROV: ZEELAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.170000"><name>SINT PHILIPSLAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="3.980000"><name>OUWERKERK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.100000"><name>SLUIS0</name><cmt>PROV: ZEELAND, INW: 24755</cmt><desc>PROV: ZEELAND, INW: 24755</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.130000"><name>ANNA JACOBAPOLDER</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="3.920000"><name>ZIERIKZEE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="3.970000"><name>KAPELLE</name><cmt>PROV: ZEELAND, INW: 11575</cmt><desc>PROV: ZEELAND, INW: 11575</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.000000"><name>NIEUWERKERK</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.030000"><name>OOSTERLAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.100000"><name>ZIJPE</name><cmt>PROV: ZEELAND, INW: ONBEKEND</cmt><desc>PROV: ZEELAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.100000"><name>BRUINISSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.720000"><name>WESTSCHAVWEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.730000"><name>BURGH</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.750000"><name>BURGSLUIS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.770000"><name>PLOMPETOREN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.850000"><name>MORIAANSHOOFD</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.900000"><name>KERKWERVE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.930000"><name>SCHUDDEBEURS</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="3.980000"><name>DRIJSCHOR</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.030000"><name>SIRSJANSLAND</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="3.750000"><name>HAAMSTEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="3.820000"><name>SEROOSKERKE0</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="3.900000"><name>NIEUWERKERKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="3.950000"><name>NOORDGOUWE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="3.700000"><name>NIEUW-HAAMSTEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="3.800000"><name>NOORDWELLE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="3.850000"><name>ELKERZEE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="3.870000"><name>BRIJDORPE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="3.950000"><name>ZONNEMAIRE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.770000"><name>RENESSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.820000"><name>ELLEMEET</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.830000"><name>BAKEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.850000"><name>SCHARENDIJKE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.870000"><name>LOOPERSKAPELLE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.900000"><name>DEN OSSE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.920000"><name>BROUWERSHAVEN</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.930000"><name>BOMMENEDE</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="3.950000"><name>DIJKHUISJES</name><cmt>PROV: ZEELAND, INW: -</cmt><desc>PROV: ZEELAND, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>

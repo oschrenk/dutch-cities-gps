@@ -1,0 +1,1028 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.230000" lon="5.600000"><name>DORPPLEIN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="5.570000"><name>LOCHT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.250000" lon="5.580000"><name>KLEIN-SCHOOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="5.570000"><name>TOOM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="5.580000"><name>MEEMORTAL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.270000" lon="5.600000"><name>BOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.300000"><name>BOSCHEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.320000"><name>LUYKSGESTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.330000"><name>SENGELSBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.350000"><name>DE AA</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.430000"><name>VOORSTE BRUG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.550000"><name>GASTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.580000"><name>SCHOORDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.280000" lon="5.600000"><name>BROEKKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="5.320000"><name>RIJT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="5.330000"><name>DE RUND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="5.430000"><name>HOEVE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="5.450000"><name>SCHAFT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="5.580000"><name>WINKEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="5.600000"><name>CRANENDONCK</name><cmt>PROV: NOORD-BRABANT, INW: 20320</cmt><desc>PROV: NOORD-BRABANT, INW: 20320</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.300000" lon="5.620000"><name>LAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.270000"><name>WITRIJT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.300000"><name>WEEBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.320000"><name>MUGGENHOOL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.330000"><name>'T LOO</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.370000"><name>BERGEYK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.420000"><name>KLEIN BORKEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.600000"><name>MAARHEZE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.620000"><name>VOGELSBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.670000"><name>HUGTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.320000" lon="5.700000"><name>DE HUTTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.320000"><name>BOKSHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.350000"><name>HOOGE BERKT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.400000"><name>WESTERHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.420000"><name>LOVEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.450000"><name>DEELSHURK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.470000"><name>ZEELBURG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.480000"><name>BRUGGERHUIZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.530000"><name>STRIJP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.570000"><name>ZEVENHUIZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.330000" lon="5.750000"><name>SLUIS DERTIEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.150000"><name>VOORSTE HEIKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.170000"><name>WEIJEREIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.220000"><name>TEN VORSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.270000"><name>DE PAN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.330000"><name>STOKKELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.350000"><name>BOEVENHEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.370000"><name>WALIK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.380000"><name>VOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.400000"><name>HEIEREIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.420000"><name>BRAAMBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.430000"><name>DOMMELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.470000"><name>VALKENSWAARD</name><cmt>PROV: NOORD-BRABANT, INW: 31163</cmt><desc>PROV: NOORD-BRABANT, INW: 31163</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.500000"><name>VALKENHORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.530000"><name>BOSHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.550000"><name>LEENDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.570000"><name>OOSTERIK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.620000"><name>STERKSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.700000"><name>SOMEREN-HEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.350000" lon="5.730000"><name>'T EIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="4.380000"><name>PUTTEN</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.150000"><name>HOLLAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.170000"><name>REUZEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.220000"><name>HELLENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.250000"><name>HAPERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.280000"><name>MOSIK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.300000"><name>DUIZEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.320000"><name>MEER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.330000"><name>SCHADEWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.350000"><name>MOLENVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.370000"><name>STEVERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.380000"><name>HOBBEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.420000"><name>KEERSOP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.550000"><name>KERKHOF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.570000"><name>VEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.580000"><name>GINDEROVER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.600000"><name>EUVELWEGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.720000"><name>VLAS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.870000"><name>SCHELM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.370000" lon="5.880000"><name>SCHANS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="4.320000"><name>ANNWAS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="4.330000"><name>PLAATSLUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.120000"><name>TWISSELT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.170000"><name>VOOREIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.180000"><name>HULSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.200000"><name>FRANSE HOEF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.220000"><name>HET BOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.250000"><name>LEMEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.270000"><name>LANDORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.300000"><name>DE HOEF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.320000"><name>SNEIDERSHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.330000"><name>HOEKDRIES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.350000"><name>STEENSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.430000"><name>TIMMEREIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.450000"><name>WAALRE</name><cmt>PROV: NOORD-BRABANT, INW: 16193</cmt><desc>PROV: NOORD-BRABANT, INW: 16193</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.500000"><name>ACHTEREIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.570000"><name>OUDENMOLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.580000"><name>STRABRECHT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.680000"><name>VAARSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.700000"><name>KLEINE HOEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.720000"><name>SOMEREN</name><cmt>PROV: NOORD-BRABANT, INW: 18480</cmt><desc>PROV: NOORD-BRABANT, INW: 18480</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.770000"><name>HEUSDEN</name><cmt>PROV: NOORD-BRABANT, INW: 43138</cmt><desc>PROV: NOORD-BRABANT, INW: 43138</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.800000"><name>WOLFSBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.380000" lon="5.870000"><name>HEITREK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="4.330000"><name>OSSENDRECHT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="4.920000"><name>GHIL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="4.930000"><name>BAARLE-NASSAU-GRENS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.130000"><name>KUILENRODE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.150000"><name>VLOEIEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.170000"><name>MISPELEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.180000"><name>HEIKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.200000"><name>NETERSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.230000"><name>KASTEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.250000"><name>HEIEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.270000"><name>HOOGELOON</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.300000"><name>HOOGCASTEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.350000"><name>KNEGSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.370000"><name>ZITTARD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.380000"><name>SCHOOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.400000"><name>HEERS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.450000"><name>HET BROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.470000"><name>VOLDIJN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.480000"><name>EKENROOI</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.580000"><name>RUL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.680000"><name>VAARSE HOEVE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.700000"><name>VLERKEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.750000"><name>ASTEN</name><cmt>PROV: NOORD-BRABANT, INW: 15936</cmt><desc>PROV: NOORD-BRABANT, INW: 15936</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.780000"><name>VOORDELDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.830000"><name>'T SLOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.880000"><name>HOOGEBRUG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.400000" lon="5.920000"><name>HELENAVEEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="4.320000"><name>HOOGERHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.150000"><name>WELLENSEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.280000"><name>VESSEM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.300000"><name>VENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.330000"><name>HALFMIJL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.350000"><name>ZANDOERLE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.400000"><name>HEIKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.420000"><name>VELDHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: 42718</cmt><desc>PROV: NOORD-BRABANT, INW: 42718</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.470000"><name>GENNEP</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.520000"><name>RIEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.530000"><name>GIJZENROOI</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.550000"><name>ZES GEHUCHTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.570000"><name>HOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.650000"><name>MOORSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.680000"><name>LIEROP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.700000"><name>OTTERDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.720000"><name>VOORSTE DIESDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.730000"><name>VOSSELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.750000"><name>OMMEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.770000"><name>STEGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.780000"><name>RINKVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.800000"><name>LEENSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.420000" lon="5.820000"><name>LIEZEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.300000"><name>WOENSDRECHT</name><cmt>PROV: NOORD-BRABANT, INW: 21548</cmt><desc>PROV: NOORD-BRABANT, INW: 21548</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.330000"><name>ZANDFORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.370000"><name>HUIJBERGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.380000"><name>OVERBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.400000"><name>SCHOELIEBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.630000"><name>WERNHOUTSBRUG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.780000"><name>KASTELREE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.830000"><name>OUDE STRUMPT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.850000"><name>NIEUWE STRUMPT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.900000"><name>HOOGEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.920000"><name>TOMMEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.930000"><name>SCHALUINEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.950000"><name>RETH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="4.970000"><name>NIJHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.170000"><name>DUN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.270000"><name>MEERVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.280000"><name>RIETVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.370000"><name>OERLE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.380000"><name>BERKT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.400000"><name>HEISTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.420000"><name>SLIFFERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.430000"><name>BIEZENKUILEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.520000"><name>PUTTEN0</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.530000"><name>URKHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.570000"><name>PAPENVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.620000"><name>TRIMPERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.630000"><name>VOORTJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.650000"><name>WINKELSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.670000"><name>OEYENBRAAK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.680000"><name>ACHTERBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.720000"><name>OOSTAPPEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.750000"><name>OMMELSE BOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.770000"><name>BAARSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.800000"><name>HEIMOLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.430000" lon="5.820000"><name>LOON</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.320000"><name>KORTEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.400000"><name>VLEET</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.580000"><name>OSTAAIEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.630000"><name>WEIMEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.650000"><name>DE LENT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.670000"><name>MAALBERGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.850000"><name>HEIKANT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.880000"><name>MAAIJKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.900000"><name>REUTH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.920000"><name>LOVEREN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.930000"><name>BAARLE-NASSAU</name><cmt>PROV: NOORD-BRABANT, INW: 6468</cmt><desc>PROV: NOORD-BRABANT, INW: 6468</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.950000"><name>OORDEL HEIKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.970000"><name>VOSKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="4.980000"><name>KLEIN-BEDAF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.000000"><name>GROOT-BEDAF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.130000"><name>HOOGEIND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.150000"><name>GROENSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.180000"><name>HEIKANT1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.220000"><name>WESTELBEERS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.320000"><name>KREIELT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.330000"><name>WINTELRE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.350000"><name>BIJSTERVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.370000"><name>SCHERPENERING</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.420000"><name>WELSCHAP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.470000"><name>EINDHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: 204776</cmt><desc>PROV: NOORD-BRABANT, INW: 204776</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.520000"><name>'T HOFKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.530000"><name>'T COLL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.550000"><name>EENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.580000"><name>HEIDESCHOOR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.600000"><name>STEPEKOLK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.620000"><name>MIERLOO</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.630000"><name>LOESWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.650000"><name>GOOR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.680000"><name>STIPDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.700000"><name>KLOOSTEREIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.720000"><name>DE WEIJER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.730000"><name>VOORSTE BEERSDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.750000"><name>HEES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.770000"><name>VLOEIEIND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.780000"><name>HEIEIND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.800000"><name>VREKWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.820000"><name>HANNENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.830000"><name>VOORPEEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.450000" lon="5.870000"><name>HALTE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.300000"><name>ZUIDGEEST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.330000"><name>HEIMOLEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.380000"><name>CENTRUM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.600000"><name>DE BUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.650000"><name>WERNHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.670000"><name>ZUNDERT</name><cmt>PROV: NOORD-BRABANT, INW: 20341</cmt><desc>PROV: NOORD-BRABANT, INW: 20341</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.870000"><name>ULICOTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.930000"><name>KWAALBURG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.950000"><name>BOSCHHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.970000"><name>TEROVER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="4.980000"><name>'T SAS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.080000"><name>ROVERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.130000"><name>HOOG SPUL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.150000"><name>LAAG SPUL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.170000"><name>WESTERWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.180000"><name>DIESSEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.230000"><name>HUYGEVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.250000"><name>MIDDELBEERS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.270000"><name>OOSTELBEERS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.400000"><name>ACHTSEHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.420000"><name>NIEUWACHT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.480000"><name>VLOKHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.520000"><name>BOORD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.530000"><name>OPWETTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.550000"><name>REFELING</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.600000"><name>KRANENBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.620000"><name>SCHUTSBOOM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.630000"><name>'T HOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.670000"><name>HET GOOR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.680000"><name>DUIZELDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.700000"><name>BROUWHUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.780000"><name>KLEINE BOTTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.800000"><name>WASERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.820000"><name>KULERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.470000" lon="5.830000"><name>MERLENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.380000"><name>WOUWSE-PLANTAGE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.450000"><name>BERGSEBAAN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.470000"><name>NISPEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.480000"><name>STEENPAAL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.500000"><name>NISPENSE ACHTERHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.530000"><name>LANGESCHOUW</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.580000"><name>HULSDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.600000"><name>MOEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.650000"><name>KLEIN-ZUNDERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.670000"><name>LUITERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.950000"><name>ALPHEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="4.970000"><name>BOSLUST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.020000"><name>OOIJEVAARSNEST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.050000"><name>NIEUWKERK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.080000"><name>GORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.120000"><name>'T LOO0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.130000"><name>KLEIN LOO</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.150000"><name>BEERTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.250000"><name>VOORTEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.430000"><name>ACHT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.480000"><name>PHILIPSWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.500000"><name>VAARTBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.530000"><name>NEDERWETTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.550000"><name>HOOL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.570000"><name>GERWEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.670000"><name>HELMOND</name><cmt>PROV: NOORD-BRABANT, INW: 82853</cmt><desc>PROV: NOORD-BRABANT, INW: 82853</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.680000"><name>KRUISSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.720000"><name>RIJPELBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.730000"><name>SCHOUW</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.750000"><name>MOLENHOF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.770000"><name>KLEIN BRUGGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.480000" lon="5.780000"><name>VOORT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.280000"><name>NOORDGEEST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.300000"><name>BERGEN OP ZOOM</name><cmt>PROV: NOORD-BRABANT, INW: 65793</cmt><desc>PROV: NOORD-BRABANT, INW: 65793</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.370000"><name>ZOOMVLIET</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.400000"><name>WOUWSE HIL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.420000"><name>HAINK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.430000"><name>RIETGOOR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.450000"><name>EVERLAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.470000"><name>BORTELDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.500000"><name>NEDERHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.570000"><name>SCHIJF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.680000"><name>STUIVEZAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.720000"><name>OEKEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.730000"><name>HAZELDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.780000"><name>KERZEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.800000"><name>STRIJBEEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.830000"><name>GRAZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.870000"><name>LEG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.880000"><name>MEIJSBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="4.980000"><name>LOONEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.080000"><name>BREEHEES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.130000"><name>VOORT1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.150000"><name>KLEINE VOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.200000"><name>LAGE HAGHORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.220000"><name>HOOGE HAGHORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.300000"><name>DUN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.320000"><name>THEETUIN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.330000"><name>DE STAD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.350000"><name>MOLENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.400000"><name>WILHELMINADORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.450000"><name>HOEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.470000"><name>KEMENADE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.480000"><name>HEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.500000"><name>VOSSENHOL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.520000"><name>HOOIDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.530000"><name>SPEKT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.550000"><name>RULLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.600000"><name>GEENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.620000"><name>CROY</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.630000"><name>STRIJP0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.650000"><name>RIXTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.670000"><name>DE EEUWSELS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.680000"><name>SCHEEPSTAL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.720000"><name>NUIJENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.730000"><name>BENTUM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.750000"><name>OVERSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.770000"><name>SCHUTSBOOM0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.780000"><name>MILHEEZE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.500000" lon="5.800000"><name>HOEVEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.270000"><name>SPINOLABERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.280000"><name>JANKENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.370000"><name>HEERLE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.380000"><name>WOUW</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.400000"><name>OOSTLAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.420000"><name>VINKENBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.430000"><name>TOLBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.450000"><name>DE KROEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.470000"><name>KRUISSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.480000"><name>VISDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.500000"><name>KORTENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.520000"><name>LANGENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.530000"><name>DE SCHIETBAAN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.570000"><name>DEDOOD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.700000"><name>TIGGELT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.720000"><name>BREEDSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.730000"><name>KAARSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.750000"><name>DIUNT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.770000"><name>BALLEMAN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.780000"><name>HEERSTAAIEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.850000"><name>DASSEMUS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.880000"><name>KALISHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="4.980000"><name>VIJFHUIZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.000000"><name>SPAANSEHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.020000"><name>LOOIENHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.070000"><name>GOORLE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.130000"><name>WESTERWIJK0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.150000"><name>BIEST-HOUTAKKER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.170000"><name>HEUVELSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.180000"><name>BROEKZIJDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.200000"><name>DEN OPSLAG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.250000"><name>KATTENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.270000"><name>SPOORDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.280000"><name>BOTERWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.300000"><name>HEDEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.320000"><name>OORSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.330000"><name>SNEPSEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.350000"><name>STRATEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.370000"><name>DRIEHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.400000"><name>VERRENBEST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.450000"><name>SONNIUSWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.500000"><name>SON EN BREUGEL</name><cmt>PROV: NOORD-BRABANT, INW: 14805</cmt><desc>PROV: NOORD-BRABANT, INW: 14805</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.520000"><name>'T EIGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.550000"><name>STAD VAN GERWEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.570000"><name>ACHTERBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.580000"><name>VOGELZANG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.600000"><name>LIESHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.620000"><name>LAAR0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.630000"><name>BEEK</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.670000"><name>HEIKANT2</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.680000"><name>WOLFSPUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.720000"><name>ESP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.730000"><name>ZAARVLAAS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.750000"><name>ZAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.520000" lon="5.800000"><name>KLEF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.230000"><name>VOGELGEZANG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.250000"><name>SLIKKENBURG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.270000"><name>HALSTEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.280000"><name>OUDE MOLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.350000"><name>MOERSTRATEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.370000"><name>HAZELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.420000"><name>BOEIINK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.470000"><name>ROOSENDAAL</name><cmt>PROV: NOORD-BRABANT, INW: 77640</cmt><desc>PROV: NOORD-BRABANT, INW: 77640</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.550000"><name>POSTHOORN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.570000"><name>RUKFEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.580000"><name>VORENSEINDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.600000"><name>SPRUNDEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.630000"><name>HEIKANT3</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.670000"><name>TIGGELTSCHEBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.750000"><name>OVERA</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.780000"><name>NOTSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.800000"><name>GOUWELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.830000"><name>RAKENS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.850000"><name>SNIJDERS-CHAAM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.870000"><name>KLOOSTER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.930000"><name>HORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="4.950000"><name>WEILENSEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.000000"><name>ZANDEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.020000"><name>RIEL0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.050000"><name>HET VEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.070000"><name>BOSCHKENS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.080000"><name>BAKERTAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.180000"><name>ZELT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.200000"><name>HILD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.320000"><name>TREGELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.420000"><name>VLEUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.430000"><name>VERNHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.480000"><name>SONNIUSWIJK0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.500000"><name>ZWIJNSBERGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.530000"><name>MOSBULTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.570000"><name>MARIAHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.580000"><name>GINDERDOOR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.600000"><name>DONKERSVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.620000"><name>HEERENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.630000"><name>DONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.650000"><name>BROEKKANT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.680000"><name>TERRIJKEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.700000"><name>REN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.530000" lon="5.720000"><name>MORTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.270000"><name>WATERKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.280000"><name>LEPELSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.300000"><name>KLUTSDORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.420000"><name>VROENHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.470000"><name>KALSDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.600000"><name>WILLEBRORD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.620000"><name>VOSDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.630000"><name>OOSTEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.650000"><name>BRAKKENSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.670000"><name>ZANDSPUI</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.680000"><name>HELLEGAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.720000"><name>ACHTERSTE RITH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.750000"><name>ESSEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.800000"><name>ULVENHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.820000"><name>GEERSBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.830000"><name>VALKENBURG</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.880000"><name>RAAKEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.900000"><name>DRIEHOEK0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.920000"><name>VERHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.950000"><name>NERHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="4.970000"><name>VOSSENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.070000"><name>'T LAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.120000"><name>TILBURG</name><cmt>PROV: NOORD-BRABANT, INW: 197358</cmt><desc>PROV: NOORD-BRABANT, INW: 197358</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.180000"><name>STOKSKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.200000"><name>HEILIGENBOOM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.220000"><name>HEIKANT4</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.250000"><name>LOCHT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.430000"><name>KREMSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.450000"><name>'T SCHOOR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.480000"><name>NIJRSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.620000"><name>KARSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.700000"><name>GEMERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.820000"><name>RIPS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.550000" lon="5.830000"><name>JODENPEEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.250000"><name>ROLAF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.380000"><name>'T HAANTJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.420000"><name>KRUISLAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.480000"><name>NIEUWENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.520000"><name>ZEGGE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.550000"><name>BOSSCHENHOOFD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.620000"><name>VOSSENDAAL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.630000"><name>HAANSBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.670000"><name>VAARTKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.680000"><name>BREMBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.700000"><name>VUCHTSCHOOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.730000"><name>RITH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.750000"><name>'T HOUT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.800000"><name>BREDA</name><cmt>PROV: NOORD-BRABANT, INW: 163427</cmt><desc>PROV: NOORD-BRABANT, INW: 163427</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.820000"><name>ROOSBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.830000"><name>KERKEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.850000"><name>BOLBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.870000"><name>LIJNDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.880000"><name>MOLENSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.950000"><name>HULTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="4.980000"><name>HEIKANT5</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.120000"><name>HOOGEIND1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.130000"><name>LAAG HEUKELUM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.180000"><name>HONDSBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.220000"><name>GEMULLEHOEKEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.320000"><name>LENNISHEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.330000"><name>VORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.350000"><name>VRILKHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.370000"><name>LIEMPDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.380000"><name>HEZELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.420000"><name>DE BUS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.470000"><name>SINT-OEDENRODE</name><cmt>PROV: NOORD-BRABANT, INW: 17113</cmt><desc>PROV: NOORD-BRABANT, INW: 17113</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.480000"><name>EVERSE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.520000"><name>WEIVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.550000"><name>ZONDVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.630000"><name>BOERDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.670000"><name>PANDELAARSE KAMPEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.680000"><name>MOLENBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.700000"><name>DOONHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.720000"><name>WOLFSBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.780000"><name>VOSSENBERG0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="5.950000"><name>OVERLOON</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.570000" lon="6.030000"><name>MAASHEES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.220000"><name>NIEUW-VOSSEMEER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.250000"><name>PELSENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.270000"><name>KOEVERING</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.280000"><name>ZWARTE RUITER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.320000"><name>STEENBERGEN</name><cmt>PROV: NOORD-BRABANT, INW: 23390</cmt><desc>PROV: NOORD-BRABANT, INW: 23390</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.330000"><name>WELBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.430000"><name>GASTELSVEER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.470000"><name>OUD-GASTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.500000"><name>LANGENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.530000"><name>OUDENBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.570000"><name>KRUISSTRAAT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.580000"><name>HOEVEN1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.600000"><name>LAGE DONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.620000"><name>GOORSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.630000"><name>GOORSTRAAT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.650000"><name>SLAGVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.670000"><name>SLIKGAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.720000"><name>VAAREIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.820000"><name>IJPELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.830000"><name>TERVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.930000"><name>HAANSBERG0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="4.950000"><name>RIJEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.080000"><name>LIJNSHEIKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.100000"><name>RUGDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.130000"><name>ENSCHOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.150000"><name>HEUNEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.170000"><name>HOOG HEUKELUM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.180000"><name>KERKHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.200000"><name>OOSTERWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.270000"><name>LUISSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.300000"><name>TONGEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.320000"><name>BREUKELEN</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.350000"><name>ONROOI</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.370000"><name>KASTEREN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.420000"><name>OLLAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.500000"><name>KOEVERING0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.530000"><name>HOOGEBIEZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.600000"><name>KELDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.620000"><name>HURKSKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.630000"><name>HEUVELBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.670000"><name>ESDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.680000"><name>LEURKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.700000"><name>VERREHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.720000"><name>HANDEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.770000"><name>ELSENDORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.870000"><name>WESTERBEEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="5.950000"><name>HEIKANT6</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="6.000000"><name>SCHAFFERDEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.580000" lon="6.020000"><name>DEN BOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.230000"><name>HOGENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.250000"><name>HEENSE MOLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.370000"><name>BLAUWE SLUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.450000"><name>NIEUW-GASTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.480000"><name>STOOF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.520000"><name>SCHANS0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.700000"><name>MOLENEIND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.720000"><name>WESTRIK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.750000"><name>GAGELDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.880000"><name>DORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="4.920000"><name>STEENOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.000000"><name>DE HEIBLOEM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.080000"><name>KOUWENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.100000"><name>VIJFHUIZEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.120000"><name>KUIL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.130000"><name>HEUVELTJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.150000"><name>HEIKANT7</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.170000"><name>MORTEL0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.200000"><name>HOLLENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.220000"><name>KERKEIND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.230000"><name>ROONSESTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.250000"><name>BELVERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.280000"><name>NERGENA</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.320000"><name>SELISSEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.330000"><name>MUNSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.350000"><name>LANGENBERG0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.400000"><name>ACHTERSTE HERMALEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.420000"><name>HERMALEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.430000"><name>VENUSHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.500000"><name>EERDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.520000"><name>WILLIBRORDUSHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.530000"><name>LAGEBIEZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.550000"><name>ZIJTAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.570000"><name>HAVELT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.580000"><name>HAM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.600000"><name>BOLST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.620000"><name>ERP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.630000"><name>HOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.650000"><name>VELUWE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.670000"><name>ZANDHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.680000"><name>PEELSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.700000"><name>ARENDSNEST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.730000"><name>VENHORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.870000"><name>HEIKANT8</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.880000"><name>OPLOO</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.920000"><name>STEVENSBEEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="5.980000"><name>TUUTHEES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="6.000000"><name>GROENINGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.600000" lon="6.020000"><name>VIERLINGSBEEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.270000"><name>HOOGEDORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.320000"><name>DROGENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.430000"><name>STAMPERSGAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.480000"><name>BARLAQUE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.520000"><name>STANDDAARBUITEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.650000"><name>ZWARTENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.680000"><name>VERLOREN HOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.780000"><name>STRIKBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.820000"><name>HOEVENEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.830000"><name>TETERINGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.870000"><name>SETERS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="4.970000"><name>'T EIND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.000000"><name>SINT-JOACHIMSMOER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.050000"><name>KRAANVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.080000"><name>MOLENEIND1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.100000"><name>MOLENSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.120000"><name>SCHOORSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.150000"><name>UDENHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.170000"><name>WINKELSCHE HOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.200000"><name>HOOGHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.220000"><name>RAAM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.230000"><name>MOLENSTRAAT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.250000"><name>NOENES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.270000"><name>HEESAKKER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.300000"><name>ESCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.330000"><name>HEULT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.350000"><name>GEMONDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.370000"><name>BESSELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.380000"><name>OETELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.420000"><name>KEUR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.430000"><name>PLEIN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.450000"><name>SCHIJNDEL</name><cmt>PROV: NOORD-BRABANT, INW: 23441</cmt><desc>PROV: NOORD-BRABANT, INW: 23441</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.470000"><name>WIJBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.480000"><name>HOEVES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.530000"><name>LEEST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.550000"><name>VEGHEL</name><cmt>PROV: NOORD-BRABANT, INW: 36428</cmt><desc>PROV: NOORD-BRABANT, INW: 36428</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.570000"><name>HEUVEL0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.620000"><name>OUDVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.670000"><name>'T PEELSE HUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.680000"><name>BURGT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.700000"><name>RIETVEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.780000"><name>LANDHORST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.850000"><name>VLAGBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.870000"><name>PEELKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.900000"><name>RONDVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="5.970000"><name>VORTUM-MULLEM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.620000" lon="6.000000"><name>KLEIN-VORTUM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.370000"><name>DINTELOORD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.430000"><name>KWARTIER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.470000"><name>FIJNAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.480000"><name>KADE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.520000"><name>KREEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.650000"><name>HAZELDONK0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.670000"><name>KRAUWELGORS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.700000"><name>DE BRIEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.770000"><name>HET ZAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.820000"><name>TER AALST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.900000"><name>HOOGENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.920000"><name>GROENSTRAAT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.930000"><name>LAGEN HAM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="4.970000"><name>KLEIN-DONGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.000000"><name>DONGENVAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.050000"><name>HEIKANT9</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.080000"><name>LOON OP ZAND</name><cmt>PROV: NOORD-BRABANT, INW: 23058</cmt><desc>PROV: NOORD-BRABANT, INW: 23058</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.100000"><name>DEN HOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.180000"><name>BIEZENMORTEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.200000"><name>LAAR1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.220000"><name>GIJZEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.230000"><name>HELVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.280000"><name>BERGENSHUIZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.320000"><name>HALL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.330000"><name>THEEREHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.350000"><name>WIELSE HOEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.370000"><name>HEZELAAR0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.380000"><name>VOGELENZANG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.420000"><name>BOSCHWEG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.430000"><name>VOSSENBERG1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.450000"><name>BOGAARD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.520000"><name>BEUGT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.530000"><name>HAZELBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.550000"><name>VEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.580000"><name>MARIAHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.600000"><name>DUIFHUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.620000"><name>KRAANMEER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.630000"><name>WEEG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.650000"><name>VOLKELSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.670000"><name>HEIKANT00</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.700000"><name>OOSTERHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.850000"><name>ULLINGER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.870000"><name>TOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.880000"><name>SINT ANTONIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.900000"><name>ZANDKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.950000"><name>HEIKANT01</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.630000" lon="5.970000"><name>SAMBEEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.420000"><name>ZEVENHUIZEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.430000"><name>DRIEHOEK1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.450000"><name>NIEUWEMOLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.470000"><name>OUDEMOLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.520000"><name>OUDE STOOF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.530000"><name>NOORDHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.550000"><name>DE DRUIF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.570000"><name>PELIKAAN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.580000"><name>KROOSWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.600000"><name>ZEVENBERGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.620000"><name>ACHTERDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.670000"><name>LANGEWEG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.700000"><name>DRIE HOEFIJZERS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.750000"><name>TERHEIJDEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.820000"><name>HOUT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.830000"><name>VRAGGELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.880000"><name>VIJFHUIZEN1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.920000"><name>OOSTEIND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="4.930000"><name>HORST0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.000000"><name>HOOGE ZANDSCHEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.050000"><name>HIL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.150000"><name>GIERSBERGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.230000"><name>LOVEREN1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.270000"><name>VUGHTSCHE HOEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.300000"><name>VUGHT</name><cmt>PROV: NOORD-BRABANT, INW: 25610</cmt><desc>PROV: NOORD-BRABANT, INW: 25610</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.320000"><name>HALDER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.330000"><name>HAANWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.350000"><name>'T HEMELRIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.370000"><name>VENKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.380000"><name>WOUD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.400000"><name>LIESEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.430000"><name>NIEUWE MOLENHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.470000"><name>LARIESTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.480000"><name>MUGGENHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.500000"><name>'T ZAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.530000"><name>ROESTENBURG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.550000"><name>VORSTENBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.570000"><name>DRIEHUIZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.600000"><name>MOLENEIND2</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.620000"><name>HULSTHEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.630000"><name>VELMOLEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.650000"><name>VOLKEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.670000"><name>OOSTERENS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.700000"><name>ODILIAPEEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.770000"><name>WILBERTOORD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.800000"><name>NOORD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.820000"><name>WANROY</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.830000"><name>PEELSTRAAT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.850000"><name>WALSERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.870000"><name>PAPENVOORT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.880000"><name>RIJKEVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.650000" lon="5.950000"><name>BOXMEER</name><cmt>PROV: NOORD-BRABANT, INW: 29282</cmt><desc>PROV: NOORD-BRABANT, INW: 29282</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.400000"><name>ORANJEOORD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.430000"><name>STADSE DIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.500000"><name>ZWINGELSPAAN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.530000"><name>KLUNDERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.680000"><name>ZEVENBERGSCHEN HOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.750000"><name>WAGENBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.780000"><name>STUIVEZAND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.800000"><name>'S-GRAVENMOER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.950000"><name>'S-GRAVENMOERSE VAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="4.980000"><name>ZANDSCHEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.020000"><name>RECHTVAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.030000"><name>VRIJHOEVEN KAPELLE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.050000"><name>SPRANGSEVAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.070000"><name>KAATSHEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.080000"><name>LOONSHOEKJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.120000"><name>FELLENOORD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.230000"><name>KROMVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.330000"><name>PLEIN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.370000"><name>MAASKANTJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.380000"><name>BEEKVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.400000"><name>HOEK0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.420000"><name>MIDDELRODE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.430000"><name>KAMEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.450000"><name>FOKKERSHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.480000"><name>ZANDKANT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.500000"><name>HOMMELSE HOEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.580000"><name>BEDAF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.600000"><name>LOO</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.620000"><name>UDEN</name><cmt>PROV: NOORD-BRABANT, INW: 40014</cmt><desc>PROV: NOORD-BRABANT, INW: 40014</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.630000"><name>MELLE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.650000"><name>RAAM0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.820000"><name>VELORENHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.830000"><name>BROEKKANT1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.870000"><name>LAAGEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.900000"><name>HOOGEIND2</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.920000"><name>HEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.670000" lon="5.930000"><name>STARTWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.430000"><name>HELWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.480000"><name>BOVENSLUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.500000"><name>TONNENKREEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.530000"><name>NOORDSCHANS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.620000"><name>LOCHTENBURG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.700000"><name>STROOIENDORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.750000"><name>HOOGE ZWALUWE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.800000"><name>MADE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.830000"><name>STEELHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.920000"><name>RAAMSDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.950000"><name>WASPIK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.970000"><name>WASPIK BOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="4.980000"><name>NIEUWE VAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.020000"><name>HOOGE VAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.050000"><name>BEZOOIEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.070000"><name>WAALWIJK</name><cmt>PROV: NOORD-BRABANT, INW: 45453</cmt><desc>PROV: NOORD-BRABANT, INW: 45453</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.170000"><name>DRUNEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.200000"><name>VLIEDBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.220000"><name>VENKANT0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.370000"><name>POELDONK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.380000"><name>NIJVELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.400000"><name>DOORNHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.420000"><name>PLEIN1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.430000"><name>LAAR2</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.450000"><name>HEIKANTSE HOEVE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.480000"><name>RUKVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.500000"><name>DONK0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.520000"><name>LOOSBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.580000"><name>RAKT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.620000"><name>HENGSTHEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.630000"><name>HULTJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.670000"><name>BRAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.680000"><name>OVENTJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.700000"><name>TRENT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.770000"><name>MEEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.780000"><name>MOLENHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.800000"><name>MOLENGAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.820000"><name>SINT HUBERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.870000"><name>PUTSELAAR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.920000"><name>HAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.680000" lon="5.930000"><name>WERVELD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.430000"><name>WILLEMSTAD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.600000"><name>ROODEVAART</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.630000"><name>MOERDIJK</name><cmt>PROV: NOORD-BRABANT, INW: 36433</cmt><desc>PROV: NOORD-BRABANT, INW: 36433</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.650000"><name>HOEKSKE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.670000"><name>ZEVENHUIZEN1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.720000"><name>GAETE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.770000"><name>OUD-DRIMMELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.780000"><name>DRIMMELEN</name><cmt>PROV: NOORD-BRABANT, INW: 26772</cmt><desc>PROV: NOORD-BRABANT, INW: 26772</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.870000"><name>GEERTRUIDENBERG</name><cmt>PROV: NOORD-BRABANT, INW: 20988</cmt><desc>PROV: NOORD-BRABANT, INW: 20988</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.900000"><name>RAAMSDONKVEER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="4.980000"><name>'S GREVELDUIN KAPELLE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.100000"><name>BAARDWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.130000"><name>ELSHOUT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.170000"><name>KUIKSE HEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.180000"><name>ONSENOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.200000"><name>NIEUWKUIK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.230000"><name>VLIJMEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.320000"><name>'S-HERTOGENBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: 131697</cmt><desc>PROV: NOORD-BRABANT, INW: 131697</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.350000"><name>VARKENSHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.370000"><name>KLOOSTERHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.380000"><name>MALISKAMP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.400000"><name>DE LOOFAERT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.420000"><name>HOOGE HEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.470000"><name>VINKEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.550000"><name>KANTJE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.570000"><name>NISTELRODE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.580000"><name>MENZEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.600000"><name>SLABROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.670000"><name>ZEVENHUIZEN2</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.680000"><name>ZEELAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.700000"><name>GRASPEEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.730000"><name>ZUID-CAROLINA</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.770000"><name>VILHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.780000"><name>BRUGGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.870000"><name>HARING</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.900000"><name>HUIJ</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.920000"><name>HEIDE0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.700000" lon="5.950000"><name>OEFFELT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="4.670000"><name>DE BINNEN-MOERDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="4.730000"><name>ZWALUWE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="4.900000"><name>KEIZERSVEER</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.020000"><name>HAGOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.080000"><name>DRONGELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.120000"><name>DOEVEREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.180000"><name>DE HOEVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.200000"><name>HAARSTEEG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.220000"><name>VOORDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.270000"><name>ENGELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.280000"><name>DIESKANT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.350000"><name>HET VEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.370000"><name>ROSMALEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.380000"><name>SPROKKELENBOSCH</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.430000"><name>DUYN EN DAEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.500000"><name>VINKEL0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.530000"><name>LAGE WIJST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.550000"><name>DONZEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.670000"><name>NABBEGAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.680000"><name>KREITSBERG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.700000"><name>HOEFKENS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.730000"><name>DE MAURIK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.830000"><name>HEUF</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.850000"><name>VIANEN</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.880000"><name>ZEVENHUTTEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.920000"><name>SINT AGATHA</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.720000" lon="5.930000"><name>DE RIJTJES</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="4.650000"><name>WILLEMSDORP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="4.900000"><name>HANK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="4.920000"><name>PERENBOOM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.000000"><name>DUSSEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.020000"><name>MEEUWEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.080000"><name>ETEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.120000"><name>HEESBEEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.130000"><name>OUD-HEUSDEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.150000"><name>HERPT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.180000"><name>HEDIKHUIZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.230000"><name>BOKHOVEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.270000"><name>CREVECOEUR</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.300000"><name>EMPEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.330000"><name>MEERWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.400000"><name>KRUISSTRAAT1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.420000"><name>HEESCHEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.430000"><name>NULAND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.450000"><name>SCHOTSHEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.470000"><name>RUN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.500000"><name>ZOGGEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.520000"><name>BROEKHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.530000"><name>WIJST</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.550000"><name>BEEMD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.570000"><name>ZEVENBERGEN0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.600000"><name>MUN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.630000"><name>SCHAIJKSE HOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.650000"><name>GAAL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.700000"><name>DRIEHUIS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.720000"><name>LAGEHEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.730000"><name>DE BOLT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.750000"><name>ESCHAREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.770000"><name>NIEUW-GASSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.780000"><name>GASSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.800000"><name>HEIHOEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.820000"><name>DE PLAATS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.830000"><name>DOMMELSVOORT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.850000"><name>EWINKEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.730000" lon="5.870000"><name>HEESWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="4.920000"><name>VIERBANNEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="4.950000"><name>KORN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.000000"><name>HILL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.050000"><name>BABYLONIENBROEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.130000"><name>AALBURG</name><cmt>PROV: NOORD-BRABANT, INW: 12006</cmt><desc>PROV: NOORD-BRABANT, INW: 12006</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.350000"><name>HET GEWANDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.500000"><name>HEIHOEK0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.520000"><name>BERGSTRAAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.630000"><name>SCHAYK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.680000"><name>REEK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.720000"><name>ZAALHEUVEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.730000"><name>ELFT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.830000"><name>LINDEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.870000"><name>KLEIN LINDEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="4.930000"><name>GANTELWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="4.950000"><name>NIEUWENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="4.970000"><name>ALMKERK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="4.980000"><name>ZANDWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.120000"><name>WIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.370000"><name>HET WILD</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.500000"><name>AMSTELEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.530000"><name>OSS</name><cmt>PROV: NOORD-BRABANT, INW: 75849</cmt><desc>PROV: NOORD-BRABANT, INW: 75849</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.570000"><name>BERGHEM</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.580000"><name>ACHTERSTE HEIDE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.600000"><name>GROOT KOOLWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.630000"><name>HEUVELS</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.650000"><name>HERPEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.720000"><name>VELP</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.730000"><name>GRAVE</name><cmt>PROV: NOORD-BRABANT, INW: 12752</cmt><desc>PROV: NOORD-BRABANT, INW: 12752</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="4.920000"><name>SCHANS1</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="4.980000"><name>EMMIKHOVENSCHEDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.000000"><name>UITWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.020000"><name>WAARDHUIZEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.030000"><name>GIESSEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.050000"><name>RIETDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.120000"><name>VEEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.530000"><name>HORSZAK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.570000"><name>GEMENT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.580000"><name>KLEIN KOOLWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.600000"><name>DUURENDSEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.630000"><name>HEUVELEIND</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.650000"><name>HUISSELING</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.680000"><name>OVERLANGEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.700000"><name>KEENT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="4.820000"><name>BLAASBALG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="4.870000"><name>STEURGAT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="4.980000"><name>OUDENDIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.000000"><name>DUIZEN MORGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.020000"><name>HET SLOT</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.030000"><name>RIJSWIJK</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.380000"><name>MAREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.400000"><name>MAREN-KESSEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.430000"><name>LITH</name><cmt>PROV: NOORD-BRABANT, INW: 6757</cmt><desc>PROV: NOORD-BRABANT, INW: 6757</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.470000"><name>LITOOIEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.500000"><name>TEFFELEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.550000"><name>MACHAREN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.580000"><name>HAREN</name><cmt>PROV: NOORD-BRABANT, INW: ONBEKEND</cmt><desc>PROV: NOORD-BRABANT, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.620000"><name>DENNENBURG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.630000"><name>DEURZEN-EN-DENNENBURG</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.650000"><name>RAVESTEIN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="4.900000"><name>WERKENDAM</name><cmt>PROV: NOORD-BRABANT, INW: 26239</cmt><desc>PROV: NOORD-BRABANT, INW: 26239</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="4.920000"><name>VIJCIE</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="4.930000"><name>WERKEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="4.950000"><name>SLEEWIJK</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="4.970000"><name>ZAND0</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.000000"><name>WOUDRICHEM</name><cmt>PROV: NOORD-BRABANT, INW: 14386</cmt><desc>PROV: NOORD-BRABANT, INW: 14386</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.570000"><name>MEGEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.620000"><name>DIEDEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.630000"><name>DEMEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.650000"><name>NEER-LANGEL</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.500000"><name>OOIEN</name><cmt>PROV: NOORD-BRABANT, INW: -</cmt><desc>PROV: NOORD-BRABANT, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>

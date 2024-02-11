@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.370000" lon="5.150000"><name>ALMERE-STAD</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="5.550000"><name>ZEEWOLDE</name><cmt>PROV: FLEVOLAND, INW: 19249</cmt><desc>PROV: FLEVOLAND, INW: 19249</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="5.230000"><name>ALMERE-BUITEN</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="5.230000"><name>OOSTVAARDERSDIEP</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="5.700000"><name>BIDDINGHUIZEN</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="5.450000"><name>LELYSTAD-HAVEN</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="5.480000"><name>LELYSTAD</name><cmt>PROV: FLEVOLAND, INW: 64660</cmt><desc>PROV: FLEVOLAND, INW: 64660</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="5.720000"><name>DRONTEN</name><cmt>PROV: FLEVOLAND, INW: 36369</cmt><desc>PROV: FLEVOLAND, INW: 36369</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="5.850000"><name>ROGGEBOTSLUIS</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="5.630000"><name>SWIFTERBANT</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="5.750000"><name>KETELHAVEN</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="5.780000"><name>MIDDELBUURT</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="5.830000"><name>ENS</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="5.730000"><name>NAGELE</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.600000"><name>URK</name><cmt>PROV: FLEVOLAND, INW: 16489</cmt><desc>PROV: FLEVOLAND, INW: 16489</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.900000"><name>KRAGGENBURG</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.680000"><name>TOLLEBEEK</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="5.650000"><name>ESPELE</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="5.770000"><name>EMMELOORD</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="5.870000"><name>MARKNESSE</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.850000"><name>LUTTELGEEST</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="5.670000"><name>CREIL</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="5.750000"><name>BANT</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="5.700000"><name>RUTTEN</name><cmt>PROV: FLEVOLAND, INW: -</cmt><desc>PROV: FLEVOLAND, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>

@@ -1,0 +1,628 @@
+<?xml version="1.0" standalone="yes" encoding="UTF-8" ?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.820000" lon="5.820000"><name>SCHOTERZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="5.850000"><name>SLIJKENBURG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="5.900000"><name>SPANGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="5.800000"><name>KOOISLOOT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="5.880000"><name>SCHERPENZEEL</name><cmt>PROV: FRYSLAN, INW: ONBEKEND</cmt><desc>PROV: FRYSLAN, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.020000"><name>BLESDIJKE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.030000"><name>BLESDIJKERVELD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.050000"><name>DE BLESSE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.080000"><name>PEPERGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.420000"><name>LAAXUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.470000"><name>MIRNS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.530000"><name>OUDEMIRDUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.570000"><name>NIJEMIRDUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.580000"><name>HOOIBERGEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.720000"><name>LEMMER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.780000"><name>OTTERWEG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.820000"><name>BANDSLOOT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.850000"><name>LANGELILLE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.870000"><name>GRACHT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.880000"><name>MUNNIKEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.920000"><name>NIJETRINE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.070000"><name>STEGGERDEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.400000"><name>SCHARL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.420000"><name>WARNS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.450000"><name>BAKHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.500000"><name>RIJS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.530000"><name>SCHOUW</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.550000"><name>ELFBERGEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.570000"><name>NIEUW AMERIKA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.600000"><name>SONDEL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.650000"><name>TAKOZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.730000"><name>EESTERGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.750000"><name>OOSTERZEE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.770000"><name>OOSTERZEE0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.800000"><name>ECHTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.820000"><name>ECHTERBRUG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.850000"><name>ZEVENBUURT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.930000"><name>OLDELEMMER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.950000"><name>OLDETRINE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="5.970000"><name>SONNEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.120000"><name>VINKEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.370000"><name>STAVOREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.450000"><name>HEMELUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.470000"><name>NIEUW BUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.520000"><name>WESTEREND HARICH</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.570000"><name>RUIGAHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.600000"><name>DELBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.620000"><name>WIJCKELEREEBUURT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.630000"><name>WIKEL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.730000"><name>FOLLEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.830000"><name>DELFSTRAHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.970000"><name>NIJELEMMER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="5.980000"><name>NIJEHOLTWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.000000"><name>WOLVEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.080000"><name>DE HOEVE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.400000"><name>MOLKWERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.470000"><name>GALAMADAMMEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.520000"><name>OUDEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.570000"><name>HARICH</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.580000"><name>BALK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.650000"><name>SLOTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.680000"><name>TJERKGAAST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.750000"><name>DONIAGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.850000"><name>VIERHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="5.900000"><name>ROTSTERGAAST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.020000"><name>OLDEHOLTWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.030000"><name>TER IDZERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.050000"><name>OLDEHOLTPADE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.130000"><name>DE MEENTHE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.150000"><name>RODE DORP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="5.450000"><name>KOUDUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="5.700000"><name>SPANNENBURG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="5.720000"><name>FINKEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="5.750000"><name>SINT NIKOLAASGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="5.800000"><name>OLDEOUWER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="5.830000"><name>ROHEL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="5.850000"><name>SINT JOHANNISGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.080000"><name>NIJEHOLTPADE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.170000"><name>ZANDHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.200000"><name>BOYLE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.470000"><name>BOVENBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.530000"><name>ELAHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.570000"><name>TROPHORNE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.600000"><name>IJPECOLSGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.700000"><name>TEROELE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.720000"><name>TASKENHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.730000"><name>LEGEMEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.750000"><name>DE RIJLST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.770000"><name>TER HEIDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.800000"><name>OUWSTER-NIJEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.820000"><name>OUWSTERHAULE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.850000"><name>ROTSTERHAULE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.900000"><name>ROTTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.930000"><name>NIJESCHOOT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.970000"><name>OUDESCHOOT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.000000"><name>MILDAM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.220000"><name>RIJSBERKAMPEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.230000"><name>ZUIDHORN</name><cmt>PROV: FRYSLAN, INW: ONBEKEND</cmt><desc>PROV: FRYSLAN, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.400000"><name>HINDELOOPEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.430000"><name>GROTE WISKE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.450000"><name>KLEINE WISKE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.500000"><name>HEIDENSCHAP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.550000"><name>VISSERSBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.600000"><name>INDIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.630000"><name>WOUDSEND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.650000"><name>KOUFURDERRIGE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.720000"><name>DIJKEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.750000"><name>BOORNZWAAG OVER DE WIELEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.780000"><name>SCHARSTERBRUG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.830000"><name>HASKERHORNE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.870000"><name>OUDEHASKE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.930000"><name>HEERENVEEN</name><cmt>PROV: FRYSLAN, INW: 41784</cmt><desc>PROV: FRYSLAN, INW: 41784</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.970000"><name>ORANJEWOUD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="5.980000"><name>BRONGERGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.050000"><name>NIJEHORNE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.130000"><name>OLDEBERKOOP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.170000"><name>DEDDINGABUURT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.180000"><name>NIJEBERKOOP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.280000"><name>LANGEDIJKE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.300000"><name>TERWISSCHA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.320000"><name>AEKINGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.330000"><name>OUD APPELSGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.370000"><name>NIEUW APPELSGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.530000"><name>KLEINE GAASTMEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.550000"><name>GAASTMEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.600000"><name>HEEG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.650000"><name>LIPPENWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.720000"><name>LANGWEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.750000"><name>DE WOUDFENNEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.780000"><name>JOURE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.800000"><name>WESTERMEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.900000"><name>NIJHASKE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.970000"><name>KNIJPE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="5.980000"><name>NIEUW BRONGERGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.020000"><name>BONTEBOK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.070000"><name>OUDEHORNE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.120000"><name>SCHUREGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.170000"><name>EGYPTE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.200000"><name>TWIJTEL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.220000"><name>TRONDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.250000"><name>VENEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.350000"><name>WILLEMSTAD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.380000"><name>RAVENSWOUD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.450000"><name>WORKUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.480000"><name>NIJHUIZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.520000"><name>SANFIRDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.550000"><name>IDZEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.600000"><name>LYTSHUZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.620000"><name>OZINGAHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.650000"><name>HOMMERTS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.770000"><name>BROEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.780000"><name>SNIKZWAAG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.920000"><name>TERBAND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="5.980000"><name>GROOTWIJNGAARDEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.000000"><name>LANGEZWAAG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.020000"><name>NIEUWE VAART</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.050000"><name>JONKERSLAND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.070000"><name>KORTEZWAAG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.100000"><name>VEENKOLONIE OUDERHORNER COMPAGNIE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.220000"><name>MAKKINGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.230000"><name>HOEK MAKKINGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.250000"><name>LAAG-DUURSWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.270000"><name>HOOG-DUURSWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.280000"><name>BUTTINGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.300000"><name>VENEKOTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.320000"><name>METHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.330000"><name>VEENOORD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.430000"><name>SCHARNEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.480000"><name>IDSERDABUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.550000"><name>OUDEGA0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.600000"><name>DRAAISTERHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.620000"><name>NIJEZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.650000"><name>JUTRIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.700000"><name>UITWELLINGERGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.770000"><name>BALLINGBUUR</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.780000"><name>AKMARIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.870000"><name>VEGELINSOORD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.880000"><name>NIEUWEBRUG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.920000"><name>SPITSENDIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.950000"><name>TJALLEBIRD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.970000"><name>GERSLOOT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.980000"><name>LUXWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.070000"><name>GORREDIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.080000"><name>OOSTEREND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.120000"><name>JUBBEGA DERDE SLUIS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.170000"><name>HORNSTERZWAAG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.300000"><name>OOSTERWOLDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.420000"><name>GAAST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.430000"><name>WONNEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.480000"><name>PARREGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.500000"><name>ATZEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.520000"><name>GREONTERP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.530000"><name>BLAUWHUIS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.550000"><name>WESTHEM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.570000"><name>ABBEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.580000"><name>PIEKEZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.600000"><name>OOSTHEM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.620000"><name>IJLST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.700000"><name>OPPENHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.770000"><name>GOINGARIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.780000"><name>TERKAPLE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="5.970000"><name>OUDEWEGSTERVAART</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.020000"><name>KLIESSE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.050000"><name>TERWISPEL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.100000"><name>LIPPENHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.120000"><name>VOSSEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.170000"><name>HOORNSTERZWAAGSTER COMPAGNIE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.230000"><name>DONKERBROEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.280000"><name>JARDINGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.320000"><name>WEPER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.330000"><name>DE KNOLLE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.350000"><name>NIEUW WEPER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.400000"><name>PIAAM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.420000"><name>KOOIHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.480000"><name>RIJTSETERP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.500000"><name>ARKUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.520000"><name>JONKERSHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.550000"><name>WOLSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.570000"><name>ABBEGAASTERKETTING</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.600000"><name>FOLSGARE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.670000"><name>SNEEK</name><cmt>PROV: FRYSLAN, INW: 32504</cmt><desc>PROV: FRYSLAN, INW: 32504</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.700000"><name>OFFINGAWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.780000"><name>TERHORNE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.850000"><name>SYTHUZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="5.900000"><name>LEKKERTERP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.000000"><name>TYNJE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.130000"><name>HEMRIKERVERLAAT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.170000"><name>WIJNJETERPVERLAAT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.200000"><name>MOSKOU</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.220000"><name>PETERSBURG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.300000"><name>HAULE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.330000"><name>KOUNDENBURG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.380000"><name>HOLLE POARTE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.400000"><name>MAKKUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.420000"><name>IDSEGAHUIZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.450000"><name>VIERHUIZEN0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.470000"><name>EXMORRA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.500000"><name>TJERKWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.520000"><name>EEMSWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.550000"><name>REMSWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.580000"><name>NIJLAND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.620000"><name>TJALHUIZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.630000"><name>YSBRECHTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.680000"><name>LOENGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.700000"><name>GOINGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.830000"><name>ANKRUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.850000"><name>NES</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.900000"><name>OLDEBOORN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.930000"><name>OOSTERBOORN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="5.970000"><name>UILESPRONG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.020000"><name>JANSSENSTICHTING</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.080000"><name>BEETSTERZWAAG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.180000"><name>WYNJETERP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.220000"><name>KLEIN GRONINGEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.250000"><name>BISSCHOP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.270000"><name>JANSSENSTICHTING0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.280000"><name>WASKEMEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.330000"><name>KORNWERDERZAND SLUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.420000"><name>ENGWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.470000"><name>EXMORRAZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.480000"><name>SOTTRUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.530000"><name>BOLSWARD</name><cmt>PROV: FRYSLAN, INW: 9378</cmt><desc>PROV: FRYSLAN, INW: 9378</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.570000"><name>HARTWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.620000"><name>ANNEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.630000"><name>TIRNS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.680000"><name>SCHARNEGOUTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.700000"><name>SPEERS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.720000"><name>SYBRANDABUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.730000"><name>TERZOOL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.750000"><name>KLEIN WIEREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.780000"><name>ABBINGAWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.820000"><name>OUDE SCHOUW</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.850000"><name>BIRSTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.870000"><name>SORREMORRE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.920000"><name>POPPENHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="5.930000"><name>WARNIAHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.000000"><name>NIJ BEETS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.030000"><name>OUD-BEETS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.080000"><name>KORTEHEMMEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.100000"><name>OLTERTERP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.130000"><name>HEIDHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.220000"><name>OPPERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.330000"><name>HAULERWIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.380000"><name>'T HOUW</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.400000"><name>KORNWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.420000"><name>WONS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.450000"><name>SCHRAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.480000"><name>SCHETTENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.530000"><name>HICHTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.550000"><name>BURGWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.600000"><name>HYDAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.630000"><name>ROODHUIS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.700000"><name>BOZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.720000"><name>DEERSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.750000"><name>POPPINGAWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.770000"><name>FLANSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.780000"><name>KERKEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.800000"><name>IRNSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.820000"><name>ZUIDEREND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="5.880000"><name>GOINGAHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.050000"><name>DE GALHOEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.250000"><name>BAKKEVEEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.400000"><name>GOOIUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.420000"><name>HAYUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.450000"><name>KOUDEHUIZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.470000"><name>WITMARSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.480000"><name>HET VLIET</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.520000"><name>HEMERT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.530000"><name>SJUNGADIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.620000"><name>OOSTEREND0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.650000"><name>RIEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.670000"><name>LUTKEWIERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.680000"><name>MAKKUM0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.700000"><name>INDIJK0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.730000"><name>BERNSTERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.750000"><name>RAUWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.780000"><name>HORNSTERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.800000"><name>FRIENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.830000"><name>GROUW</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="5.950000"><name>DE VEENHOOP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.030000"><name>WILGEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.050000"><name>BUITENSTVERLAAT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.100000"><name>DRACHTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.130000"><name>URETERPERVERLAAT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.170000"><name>URETERP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.200000"><name>SIGERSWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.250000"><name>VOORWERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.300000"><name>ALLERDSOOG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.400000"><name>ZURICH</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.430000"><name>PINGJUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.480000"><name>NES0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.550000"><name>WAAXENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.570000"><name>KUBAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.580000"><name>WOMMELS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.620000"><name>EDENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.630000"><name>SPIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.650000"><name>SCHRINS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.670000"><name>KROMWAL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.680000"><name>WIEWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.700000"><name>SCHILLAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.730000"><name>OOSTERWIERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.800000"><name>ROORDAHUIZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="5.980000"><name>GAASTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.030000"><name>EGBERTSGAASTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.170000"><name>URETERP AAN DE VAART</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.420000"><name>DIJKSTERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.430000"><name>KIMSWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.480000"><name>BAARDERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.530000"><name>RUIGELOLLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.570000"><name>TRITZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.600000"><name>BONKWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.650000"><name>WIEUWENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.670000"><name>WAMMERT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.680000"><name>DE HEM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.720000"><name>TJEINTGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.780000"><name>BAARDBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.820000"><name>TJAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.830000"><name>EGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.850000"><name>DONGWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.930000"><name>EERNEWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="5.980000"><name>UITEINDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.000000"><name>OUDEGA1</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.020000"><name>NIJEGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.030000"><name>MIDDELBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.070000"><name>OPENDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.080000"><name>FOLGEREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.130000"><name>DRACHTSTERCOMPAGNIE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.480000"><name>ACHLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.570000"><name>TZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.580000"><name>TATUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.620000"><name>SPANNUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.630000"><name>WINSUM</name><cmt>PROV: FRYSLAN, INW: ONBEKEND</cmt><desc>PROV: FRYSLAN, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.650000"><name>MAEMERT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.670000"><name>HUINS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.680000"><name>LIONS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.720000"><name>JORWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.730000"><name>BEERS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.750000"><name>WEIDUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.800000"><name>WYTGAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.820000"><name>ZWICHUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.830000"><name>WARGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.850000"><name>NAARDERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.880000"><name>MIDSBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.900000"><name>WARTENA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.970000"><name>SIGERSWOUDE0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="5.980000"><name>KLOOSTERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.000000"><name>INIAHEIDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.050000"><name>TIKE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.080000"><name>ZWARTVEEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.100000"><name>ROTTEVALLE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.130000"><name>HOUTIGEHAGE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.150000"><name>LUCHTENVELD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.430000"><name>KONINGSBUURT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.500000"><name>SOPSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.520000"><name>HITZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.530000"><name>DOIJUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.550000"><name>MIEDUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.570000"><name>LUTJELOLLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.600000"><name>WELSRIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.630000"><name>HATSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.700000"><name>HYLAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.750000"><name>JELLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.820000"><name>HEM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.830000"><name>ZUIDERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.870000"><name>WARSTIENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="5.970000"><name>GARIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.050000"><name>OOSTERMEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.100000"><name>WITVEEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.120000"><name>JACHTVELD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.150000"><name>SURHUISTERVEENSTERHEIDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.420000"><name>HARLINGEN</name><cmt>PROV: FRYSLAN, INW: 15533</cmt><desc>PROV: FRYSLAN, INW: 15533</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.430000"><name>ALMENUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.450000"><name>MIDLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.470000"><name>UNGEBUURT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.500000"><name>KIESTERZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.520000"><name>LANKUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.580000"><name>SALVERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.600000"><name>TJEPPENBOER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.700000"><name>BLESSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.730000"><name>BOXUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.800000"><name>GOUTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.830000"><name>TEERNS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="5.930000"><name>SUAWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.000000"><name>SUAMEER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.070000"><name>HOOGZAND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.120000"><name>HAMSHORN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.130000"><name>HARKEMA-OPEINDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.170000"><name>SURHUISTERVEEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.470000"><name>WINALDUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.480000"><name>VOORRIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.520000"><name>WAR</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.530000"><name>FRANEKER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.550000"><name>ARKENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.570000"><name>SCHALSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.600000"><name>ZWEINS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.620000"><name>SCHINGEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.650000"><name>DRONRIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.720000"><name>DEINUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.730000"><name>RITSUMAZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.780000"><name>LIEUWARDEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.830000"><name>WILAARDERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.900000"><name>KLEINEGEEST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="5.920000"><name>TIETJERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.000000"><name>BERGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.070000"><name>SCHUILENBURG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.120000"><name>DROOGEHAM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.130000"><name>BUWEKLOOSTER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.150000"><name>ROODESCHUUR</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.170000"><name>OPHUIS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.180000"><name>SURHUIZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.450000"><name>ROPTAZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.480000"><name>SIXBIERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.550000"><name>DONGJUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.570000"><name>BOER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.600000"><name>RIED</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.620000"><name>SLAPPETERP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.670000"><name>MENALDUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.730000"><name>MARSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.800000"><name>SNAKKERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.920000"><name>RIPERKERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.950000"><name>HARDEGARIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="5.980000"><name>QUATREBRAS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.020000"><name>NOORDBERGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.070000"><name>EESTRUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.080000"><name>KOTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.100000"><name>KOOTSTERTILLE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.150000"><name>ROHEL0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.170000"><name>AUGUSTINUSGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.220000" lon="6.220000"><name>SURHUIZUMERMIEDEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.520000"><name>OOSTERBIERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.550000"><name>TZUMMARUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.650000"><name>KLOOSTER-ANJUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.680000"><name>BEETGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.700000"><name>BEETGUMERMOLEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.720000"><name>ENGELUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.780000"><name>VENSTERBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.820000"><name>LEKKUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.830000"><name>MIEDUM0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.880000"><name>GIEKERKERHOEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="5.980000"><name>VEENWOUDSTERWAL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.000000"><name>ZEVENHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.050000"><name>ZWAGERBOSCH</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.100000"><name>WEDZEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.170000"><name>BLAUWVERLAAT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.200000"><name>GERKESKLOOSTER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.230000" lon="6.220000"><name>STROOBOS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.530000"><name>KOEHOOL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.570000"><name>FIRDGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.600000"><name>MINNERTSGA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.630000"><name>WIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.650000"><name>HEMMEMABUURT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.780000"><name>KORNJUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.830000"><name>WYNS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.900000"><name>OENKERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="5.930000"><name>MOLENEND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.020000"><name>KUIKHORNE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.050000"><name>TWIJZELERHEIDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.070000"><name>ZANDBULTEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.250000" lon="6.150000"><name>LUTKEPOST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="5.550000"><name>DIJKSHOEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="5.600000"><name>SINT JACOBIPAROCHIE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="5.770000"><name>STIENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="5.830000"><name>TICHELWERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="5.880000"><name>OUDKERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="5.920000"><name>ROODKERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.000000"><name>DE BROEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.020000"><name>VALOM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.050000"><name>ZWAAGWESTEINDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.070000"><name>KOLLUMERZWAAG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.270000" lon="6.080000"><name>ZWAGERVEEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>VEENKLOSTER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>STEENHARST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BURUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>OOST-VLIELAND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WESTHOEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>SINT ANNAPAROCHIE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>VROUWENPAROCHIE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>FINKUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BARTLEHIEM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>TERGRACHT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WANSWERD AAN DE STREEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>AKKERWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>MURMERWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>TRIMEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>OUDWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WIJGEEST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>KOLLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>DE KEEGEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>LEEGTE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NIJ ALTOENAE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>OUDE BILDTDIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>OUDE BILTZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>OUDE LEYE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HIJUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WANSWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BIRDAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>RINSUMAGEEST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>DANTUMAWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WOUTERSWOUDE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>DRIEZUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>KETTINGWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WESTERGEEST</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>KOLLUMERPOMP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WARFSTERMOLEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HALFWEG</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>MUNNIKENZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>ZWARTE HAAN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NIEUWE BILDTDIJK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NIEUWE BILTZIJL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>VIJFHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HALLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>JISLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>REITSUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>SYBRANDAHUIS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>STEENVAK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>ENGWIERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>DOKKUMERNIEUWEZIJLEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WESTERNIJKERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>FERWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HOOGEBEINTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>LICHTAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>RAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BORNWIRD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BORNWIRDHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>DOKKUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>TILBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>OOSTRUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>KLEIN MEDHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>EE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>TIBMA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NIEUWLAND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>EWER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BOTEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BLIJA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>VAREBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WAAXENS0</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BRANTGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>FOUDGUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HIAURE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WETZENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>JOUWSWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>REIDSWAL</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>DIJKSHORNE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>WEST-TERSCHELLING</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HOLWERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HANTUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HANTUMERHOEK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HANTUMHUIZEN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NYAWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>ROPTA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>MORRA</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>TEERD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>STIEM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>HEE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>KAART</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>MIDSLAND</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>ZEERIJP</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>FORMERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>TEIJEBUREN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>VISCHBUURT</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>TERNAARD</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WIE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>OOSTERNIJKERK</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>LIOESSENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>ABBEWIER</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>OOSTMAHORN</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>WEST OAN SEE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>MIDSLAN OAN SEE</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>LIES</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>HOORN</name><cmt>PROV: FRYSLAN, INW: ONBEKEND</cmt><desc>PROV: FRYSLAN, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="5.000000"><name>OOSTEREND1</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>'T SCHOOR</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>WIERUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NES1</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>PEZENS</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>HOLLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BALLUM</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NES2</name><cmt>PROV: FRYSLAN, INW: -</cmt><desc>PROV: FRYSLAN, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>BUREN</name><cmt>PROV: FRYSLAN, INW: ONBEKEND</cmt><desc>PROV: FRYSLAN, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>SCHIERMONNIKOOG</name><cmt>PROV: FRYSLAN, INW: 1025</cmt><desc>PROV: FRYSLAN, INW: 1025</desc><sym>Medium City</sym></wpt>
+
+</gpx>

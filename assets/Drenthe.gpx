@@ -1,0 +1,384 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.620000" lon="6.400000"><name>WILDENBERG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.450000"><name>SCHRAPVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.500000"><name>DROGTEROPSLAGEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="6.520000"><name>DE TIPPE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.370000"><name>PIEPERIJ</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.420000"><name>NOLDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.450000"><name>LINDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="6.480000"><name>VUILE RIETE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.380000"><name>FORT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.420000"><name>DROGT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.430000"><name>SCHOTTERSHUIZEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.500000"><name>LINDERVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.520000"><name>BRAAMBERG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.720000"><name>'T KLOOSTER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.820000"><name>WIJERSWOLD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.830000"><name>VLIEGHUIS</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.920000"><name>OOSTERSE BOS</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.930000"><name>KOELVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="6.980000"><name>NIEUW-SCHOONEBEKERVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="7.020000"><name>MIDDENDORP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.280000"><name>WIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.300000"><name>OOSTERWIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.320000"><name>HALLWEIDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.330000"><name>STAPEL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.370000"><name>VENINGEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.420000"><name>MIDDELVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.430000"><name>WEMMENHOVE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.500000"><name>KERKENVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.530000"><name>MOSCOU</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.650000"><name>NIEUWE KRIM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.700000"><name>STEENWIJKSMOER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.750000"><name>PIKVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.850000"><name>PADHUIS</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.870000"><name>WESTERSE BOS</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.880000"><name>SCHOONEBEEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="6.900000"><name>MIDDENDORP0</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="7.000000"><name>WEITEVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.970000"><name>MOESPOT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.250000"><name>SCHIPHORST</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.270000"><name>ROGAT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.300000"><name>NOORDWIJK</name><cmt>PROV: DRENTHE, INW: ONBEKEND</cmt><desc>PROV: DRENTHE, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.320000"><name>HOOGE LINTHORST</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.370000"><name>OUD VEENINGEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.420000"><name>DE STUW</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.430000"><name>ZUIDWOLDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.480000"><name>ALTEVEER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.530000"><name>ZUIDEROPGAANDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.580000"><name>ELIM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.620000"><name>DALEREND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.670000"><name>DALERPEEL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.700000"><name>VOSSEBELT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.720000"><name>HOOGEHAAR</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.750000"><name>DE BENTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.820000"><name>DALERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="6.830000"><name>STIELTJESKANAAL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.170000"><name>LEENDERS</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.200000"><name>MEPPEL</name><cmt>PROV: DRENTHE, INW: 30221</cmt><desc>PROV: DRENTHE, INW: 30221</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.220000"><name>OOSTERBOER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.270000"><name>BROEKHUIZEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.320000"><name>KOEKANGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.350000"><name>STRUIKBERG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.420000"><name>NIJSTAD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.430000"><name>TEN-ARLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.530000"><name>HOLLANDSCHEVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.620000"><name>NIEUWLANDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.700000"><name>VEENHUIZEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.750000"><name>DALEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.800000"><name>DE HAAR</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.820000"><name>SCHIMMELARIJ</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.870000"><name>ZANDPOL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.920000"><name>AMSTERDAMSEVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.970000"><name>SCHUTWIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="6.980000"><name>BARGER-OOSTERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.150000"><name>KOLDERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.230000"><name>KRALOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.250000"><name>RUINERWOLD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.280000"><name>BERGHUIZEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.330000"><name>KOEKANGERVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.400000"><name>ECHTEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.450000"><name>DE WEIDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.520000"><name>KRAKEEL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.530000"><name>NOORDSCHESCHUT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.670000"><name>NIEUW-ZWINDEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.750000"><name>WACHTUM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.780000"><name>ELDIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.800000"><name>HOLSLOOT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.850000"><name>VEENOORD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.870000"><name>NIEUW-AMSTERDAM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="6.930000"><name>ERICA</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="7.050000"><name>ZWARTEMEER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.170000"><name>NIJEVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.220000"><name>NIJENTAP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.270000"><name>DIJKHUIZEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.280000"><name>OOSTEINDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.330000"><name>RUINERWEIDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.430000"><name>KALENBERG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.450000"><name>FLUITENBERG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.480000"><name>HOOGEVEEN</name><cmt>PROV: DRENTHE, INW: 53186</cmt><desc>PROV: DRENTHE, INW: 53186</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.500000"><name>STADTERIJ</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.520000"><name>ACHTEROM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.570000"><name>'T NOORDEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.620000"><name>LANGERAK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.630000"><name>GEESBRUG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.680000"><name>ZWINDEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.750000"><name>GREVENBERG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="6.850000"><name>ERMERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="7.000000"><name>KLAZIENAVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.150000"><name>KOLDERVEENSE BOVENBOER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.180000"><name>NIJEVEENSE BOVENBOER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.200000"><name>VEENDIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.220000"><name>EURZINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.330000"><name>OLDENHAVE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.370000"><name>HEES</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.420000"><name>GIJSSELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.500000"><name>STUIFZAND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.530000"><name>SIBERIE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.550000"><name>TIENDEVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.680000"><name>GEES</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.730000"><name>OOSTERHESSELEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.820000"><name>ERM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.830000"><name>ACHTERSTE ERM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.850000"><name>WILHELMSOORD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.920000"><name>ZUIDBARGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.930000"><name>KOLLINGSVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.950000"><name>ORANJEDORP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="6.970000"><name>NIEUW-DORDRECHT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="7.030000"><name>BARGER-COMPASCUUM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.180000"><name>HAVELTERBERG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.200000"><name>BUSSELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.250000"><name>HAVELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.320000"><name>ARMWEIDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.330000"><name>RUINERDIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.350000"><name>RUINEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.370000"><name>ENGELAND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.400000"><name>LEEUWTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.450000"><name>PESSE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.470000"><name>DE MARKE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.500000"><name>ZWARTSCHAP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.600000"><name>NIEUW-BALINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.820000"><name>DIPHOORN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.930000"><name>OEVER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="6.970000"><name>BARGER-OOSTERVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="7.000000"><name>SMEULVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.220000"><name>DERP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.280000"><name>UFFELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.300000"><name>RHEEBRUGGEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.330000"><name>ANSEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.370000"><name>WITTEVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.420000"><name>ANHOLT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.430000"><name>KRALOO0</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.450000"><name>NUIL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.530000"><name>DRIJBER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.700000"><name>MEPPEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.730000"><name>AALDEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.750000"><name>BENNEVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.800000"><name>SLEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.820000"><name>NOORD-SLEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.880000"><name>WESTENESCH</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="6.900000"><name>EMMEN</name><cmt>PROV: DRENTHE, INW: 108367</cmt><desc>PROV: DRENTHE, INW: 108367</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="7.020000"><name>FOXEL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.220000"><name>HET SCHIER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.250000"><name>HOLTINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.620000"><name>MANTINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.730000"><name>ZWEELOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="6.930000"><name>EMMERSCHANS</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.470000"><name>SPIER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.520000"><name>WIJSTER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.580000"><name>BRUNTINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.630000"><name>GARMINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.650000"><name>BALINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.670000"><name>WITTEVEEN0</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.720000"><name>WEZUP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.820000"><name>KIBBELVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.830000"><name>'T HAANTJE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.920000"><name>WEERDINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="6.980000"><name>ERFSCHEIDENVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="7.050000"><name>EMMER-COMPASCUUM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="7.070000"><name>MUNSTERSCHEVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.170000"><name>NIJENSLEEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.250000"><name>WAPSERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.280000"><name>HET MOER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.300000"><name>WITTELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.350000"><name>WESTEINDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.370000"><name>DWINGELOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.400000"><name>LHEE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.600000"><name>EURSINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.720000"><name>WEZUPERBRUG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="6.870000"><name>KLIJNDIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="7.050000"><name>ROSWINKEL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.180000"><name>FREDERIKSOORD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.220000"><name>VLEDDER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.250000"><name>VELDHUIZEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.270000"><name>WAPSE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.300000"><name>KALTEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.320000"><name>OLDENDIEVER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.330000"><name>DIEVERBRUG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.350000"><name>HOLTLAND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.370000"><name>MOLENSTAD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.380000"><name>EEMSTER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.400000"><name>HOLTIEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.430000"><name>LHEEBROEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.500000"><name>SMALBROEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.520000"><name>TER HORST</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.530000"><name>MAKKUM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.550000"><name>HOLTHE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.600000"><name>WESTERBORK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.670000"><name>ORVELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.750000"><name>SCHOONOORD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.780000"><name>ODOORNERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.850000"><name>ODOORN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.900000"><name>VALTHE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="6.920000"><name>VALTHERBLOKKEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.170000"><name>WILHELMINA SOORD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.270000"><name>VEENHUIZEN0</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.280000"><name>ZOERTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.370000"><name>GEEUWENBRUG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.380000"><name>BOTERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.470000"><name>BEILERVAART</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.500000"><name>BRUNSTING</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.520000"><name>BEILEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.530000"><name>ALTING</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.550000"><name>KLATERING</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.580000"><name>ZWIGGELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.630000"><name>ZUIDVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.750000"><name>DE KIEL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.770000"><name>EESERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.880000"><name>HUNZEBERGEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="6.980000"><name>NIEUW-WEERDINGE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="7.000000"><name>DIKBROEKEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.150000"><name>NOORDWOLDE-ZUID</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.200000"><name>VLEDDERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.500000"><name>RHEEVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.530000"><name>EURSING</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.650000"><name>ELP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.780000"><name>EESERGROEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.870000"><name>EXLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.900000"><name>BOERMASTREEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="6.980000"><name>VALTHERMOND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.230000"><name>BOSCHOORD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.400000"><name>HOOGERSMILDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.500000"><name>HIJKEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.700000"><name>SCHOONLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.730000"><name>ELLERTSHAAR</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.770000"><name>WESTDORP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.900000"><name>EXLOERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="6.930000"><name>EXLOERKIJL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="7.020000"><name>VALTHERMUSSEL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="7.030000"><name>2E VALTHERMOND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.250000"><name>ZORGVLIET</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.280000"><name>WATEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.420000"><name>DE POLLE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.450000"><name>ORANJE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.530000"><name>LAAGHALEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.550000"><name>HOOGHALEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.800000"><name>BORGER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.820000"><name>EES</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="6.970000"><name>2E EXLOERMOND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.430000"><name>HIJKERSMILDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.520000"><name>LAAGHALERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.620000"><name>AMEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.670000"><name>GROLLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.830000"><name>BUINEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="6.880000"><name>BUINERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.450000"><name>SMILDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.570000"><name>GEELBROEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.580000"><name>ELEVELD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.600000"><name>EKEHAAR</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.650000"><name>VREDENHEIM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.700000"><name>PAPENVOORT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.800000"><name>DROUWEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.820000"><name>BRONNEGER</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.830000"><name>BRONNEGERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.930000"><name>NIEUW-BUINEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="6.970000"><name>1E EXLOERMOND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.530000"><name>DE HAAR0</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.550000"><name>GRASWIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.620000"><name>ELDERSLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.630000"><name>NIJLANDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.670000"><name>NOOIT GEDACHT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.780000"><name>GASSELTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.850000"><name>DROUWENERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="6.870000"><name>ZUIDEIND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.480000"><name>BOVENSMILDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.520000"><name>WITTEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.580000"><name>ANREEP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.600000"><name>SCHIEVEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.650000"><name>ROLDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.800000"><name>KOSTVLIES</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.850000"><name>GASSELTERNIJVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.870000"><name>SCHREIERSWIJK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.920000"><name>DROUWENERMOND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.980000" lon="6.930000"><name>GASSELTERNIJVEENSCHEMOND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.520000"><name>KLOOSTERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.550000"><name>ASSEN</name><cmt>PROV: DRENTHE, INW: 60230</cmt><desc>PROV: DRENTHE, INW: 60230</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.630000"><name>BALLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.680000"><name>ANDEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.770000"><name>BONNEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.820000"><name>VEENHOF</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.830000"><name>TORENVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.850000"><name>GASSELTERBOERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.900000"><name>TWEEDE DWARSDIEP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.480000"><name>NORGERVAART</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.580000"><name>PEELOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.620000"><name>LOON</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.730000"><name>EEXT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.770000"><name>GIETEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.830000"><name>BONNERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.870000"><name>BOVENSTREEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.020000" lon="6.880000"><name>GASSELTERBOERVEENSCHEMOND</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.550000"><name>TER-AART</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.570000"><name>RHEE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.620000"><name>TAARLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.670000"><name>GASTEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.780000"><name>EEXTERZANDVOORT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.800000"><name>ZANDVOORT</name><cmt>PROV: DRENTHE, INW: ONBEKEND</cmt><desc>PROV: DRENTHE, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.830000"><name>HILTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="6.850000"><name>STREEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.400000"><name>VEENHUIZEN1</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.430000"><name>WESTERVELDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.470000"><name>ZUIDVELDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.550000"><name>ZEYEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.570000"><name>UBBENA</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.650000"><name>OUDEMOLEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.700000"><name>ANLOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.800000"><name>NOORD EEXTERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.830000"><name>EEXTERVEENSCHEKANAAL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="6.850000"><name>NIEUWEDIEP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.400000"><name>EEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.470000"><name>NORG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.500000"><name>PEEST</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.600000"><name>HEIDEHEIM</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.650000"><name>ZEEGSE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.670000"><name>SCHIPBORK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.730000"><name>ANNEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="6.780000"><name>NIEUW ANNERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.330000"><name>EEN-WEST</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.580000"><name>VRIES</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.600000"><name>TYNAARLO</name><cmt>PROV: DRENTHE, INW: 31865</cmt><desc>PROV: DRENTHE, INW: 31865</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.670000"><name>WESTLAREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.700000"><name>SCHUILINGSOORD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.770000"><name>SPIJKERBOOR</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="6.800000"><name>ANNERVEENSCH KANAAL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.370000"><name>AMERIKA</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.420000"><name>STEENBERGEN</name><cmt>PROV: DRENTHE, INW: ONBEKEND</cmt><desc>PROV: DRENTHE, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.450000"><name>LANGELOO</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.550000"><name>DONDEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.600000"><name>HALFWEG</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.680000"><name>ZUIDLAREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="6.750000"><name>ZUIDLAARDERVEEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.420000"><name>RODERESCH</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.430000"><name>ALTEVEER0</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.470000"><name>LIEVEREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.530000"><name>BUNNE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.580000"><name>YDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.680000"><name>MIDLAREN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="6.720000"><name>GROEVE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.400000"><name>NIEUW-RODEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.430000"><name>RODEN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.480000"><name>ALTENA</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.500000"><name>BOERELAAN</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.520000"><name>PEIZERHORST</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.530000"><name>WINDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.570000"><name>ZUIDEIND0</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="6.600000"><name>OOSTERBROEK</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.380000"><name>TERHEIL</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.430000"><name>ZULTE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.450000"><name>WOLDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="6.500000"><name>PEIZE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.400000"><name>NIETAP</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.450000"><name>SANDEBUUR</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.470000"><name>RODERWOLDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.500000"><name>PEIZERWOLD</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.550000"><name>SCHELFSHORST</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.170000" lon="6.570000"><name>PATERSWOLDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.180000" lon="6.550000"><name>EELDERWOLDE</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.200000" lon="6.480000"><name>MATSLOOT</name><cmt>PROV: DRENTHE, INW: -</cmt><desc>PROV: DRENTHE, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>

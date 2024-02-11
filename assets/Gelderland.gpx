@@ -1,0 +1,726 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.750000" lon="5.170000"><name>BERN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.180000"><name>SLIJKWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.200000"><name>WELL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.220000"><name>AMMERZODEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.270000"><name>HEDEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.330000"><name>HOENZADRIEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.750000" lon="5.950000"><name>GRAFWEGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.130000"><name>DE RIETSCHOOF</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.170000"><name>NEDERHEMERT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.180000"><name>WELLSEIND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.230000"><name>WORDRAGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.300000"><name>VELDDRIEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.330000"><name>KERKDRIEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.750000"><name>NEDERASSELT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.770000"><name>MOLENHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.780000"><name>SCHOONENBURG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.800000"><name>WORSEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.830000"><name>VOSSENEIND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.850000"><name>HEUMEN</name><cmt>PROV: GELDERLAND, INW: 16595</cmt><desc>PROV: GELDERLAND, INW: 16595</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.930000"><name>COLONJES</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.950000"><name>BREDEWEG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.770000" lon="5.980000"><name>PLAK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.070000"><name>POEDEROIJENSCHEHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.080000"><name>POEDEROYEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.130000"><name>AALST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.220000"><name>KERKWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.230000"><name>BRUCHEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.280000"><name>GEENWEIDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.320000"><name>HOORZIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.350000"><name>ALEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.720000"><name>BALGOY</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.750000"><name>LUNEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.770000"><name>BOSCHKANT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.780000"><name>VALENBERG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.820000"><name>HEIDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.850000"><name>MALDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.930000"><name>KAMP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.950000"><name>HEIKANT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.780000" lon="5.970000"><name>DE HORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.180000"><name>NIEUWAAL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.200000"><name>GAMEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.250000"><name>ZALTBOMMEL</name><cmt>PROV: GELDERLAND, INW: 25759</cmt><desc>PROV: GELDERLAND, INW: 25759</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.280000"><name>OENSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.320000"><name>ROME</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.330000"><name>ROSSUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.370000"><name>SINT ANDRIES</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.670000"><name>NIFTRIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.730000"><name>WOORD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.770000"><name>ALVERNA</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.780000"><name>HEIVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.830000"><name>BROEKKANT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.850000"><name>KLUIS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.800000" lon="5.970000"><name>LAGEWALD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.050000"><name>VUREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.100000"><name>BRAKEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.130000"><name>ZUILICHEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.200000"><name>CROB</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.220000"><name>HAAFTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.230000"><name>TUIL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.320000"><name>HURWENEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.350000"><name>HEESSELT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.370000"><name>VARIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.400000"><name>HEEREWAARDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.420000"><name>VOORNE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.450000"><name>MOORDHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.470000"><name>MOLENEIND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.500000"><name>DE HELLUW</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.520000"><name>BOVENEIND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.530000"><name>MAASBOMMEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.670000"><name>LIENDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.700000"><name>LEUR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.720000"><name>PASSEROT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.730000"><name>WIJCHEN</name><cmt>PROV: GELDERLAND, INW: 38830</cmt><desc>PROV: GELDERLAND, INW: 38830</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.770000"><name>TEERSDIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.900000"><name>HEILIG LANDSTICHTING</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.920000"><name>MEERWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.820000" lon="5.950000"><name>SMORENHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="4.980000"><name>LAAG-DALEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.020000"><name>DALEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.180000"><name>HELLOUW</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.270000"><name>WAARDENBURG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.280000"><name>NEERIJNEN</name><cmt>PROV: GELDERLAND, INW: 11406</cmt><desc>PROV: GELDERLAND, INW: 11406</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.300000"><name>OPITNEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.400000"><name>VELUWE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.430000"><name>OUDE MAASDIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.480000"><name>GREFFELING</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.530000"><name>VELDDIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.550000"><name>MOLENEIND0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.570000"><name>MUN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.580000"><name>APPELTERN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.600000"><name>DE TUUT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.620000"><name>LAAK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.630000"><name>DEN HOEF</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.680000"><name>HERNEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.730000"><name>WOEZIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.770000"><name>WOEZIKROT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.800000"><name>NEERBOSCH WEST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.820000"><name>NEERBOSCH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.830000"><name>HEES</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.870000"><name>NYMEGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.880000"><name>MARIENBOOM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.920000"><name>UBBERGEN</name><cmt>PROV: GELDERLAND, INW: 9261</cmt><desc>PROV: GELDERLAND, INW: 9261</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.930000"><name>BEEK</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="5.980000"><name>LEUTH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.830000" lon="6.400000"><name>MEGCHELEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.050000"><name>VOGELSWERF</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.100000"><name>LEUVEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.280000"><name>SNELLEVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.320000"><name>EST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.370000"><name>HATTELAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.380000"><name>OPHEMERT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.430000"><name>DREUMEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.550000"><name>WOERD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.570000"><name>ALTFORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.580000"><name>HEPPERT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.600000"><name>NEERSTEIND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.620000"><name>HORSSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.630000"><name>DE ASPERT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.670000"><name>BERGHAREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.820000"><name>WEURT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.920000"><name>PERSINGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.950000"><name>WERCHEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="5.970000"><name>ERLEKOM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="6.030000"><name>ZEELAND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="6.100000"><name>TOLKMAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="6.150000"><name>SPIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.850000" lon="6.320000"><name>NETTERDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.270000"><name>LAAGEINDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.280000"><name>METEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.370000"><name>WADENOYEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.420000"><name>ZENNEWIJNEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.620000"><name>MOLENHOEK0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.730000"><name>HOEVE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.780000"><name>BEUNINGEN</name><cmt>PROV: GELDERLAND, INW: 25429</cmt><desc>PROV: GELDERLAND, INW: 25429</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.850000"><name>KOUDENHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.870000"><name>TENT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.900000"><name>TIENGEBODEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.920000"><name>GROENLANDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.930000"><name>OOY</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="5.950000"><name>KOMMERDIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="6.000000"><name>KEKERDOM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="6.050000"><name>MILLINGEN AAN DE RIJN</name><cmt>PROV: GELDERLAND, INW: 5931</cmt><desc>PROV: GELDERLAND, INW: 5931</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="6.120000"><name>LOBITH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="6.350000"><name>WIEKEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="6.380000"><name>GENDRINGEN</name><cmt>PROV: GELDERLAND, INW: 21033</cmt><desc>PROV: GELDERLAND, INW: 21033</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="6.470000"><name>HET BEGGELDER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.870000" lon="6.480000"><name>DINXPERLO</name><cmt>PROV: GELDERLAND, INW: 8572</cmt><desc>PROV: GELDERLAND, INW: 8572</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.130000"><name>AKKOOI</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.150000"><name>RHENOY</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.180000"><name>RUMT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.200000"><name>BEEST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.220000"><name>MARIENWAARD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.250000"><name>DEIL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.270000"><name>TRICHT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.300000"><name>GELDERMALSEN</name><cmt>PROV: GELDERLAND, INW: 25055</cmt><desc>PROV: GELDERLAND, INW: 25055</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.370000"><name>TWEESLUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.380000"><name>KAPEL-AVEZAATH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.430000"><name>TIEL</name><cmt>PROV: GELDERLAND, INW: 40205</cmt><desc>PROV: GELDERLAND, INW: 40205</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.470000"><name>WAMEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.520000"><name>LEEUWENBENEDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.550000"><name>LEEUWEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.580000"><name>PUIFLIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.620000"><name>DRUTEN</name><cmt>PROV: GELDERLAND, INW: 17461</cmt><desc>PROV: GELDERLAND, INW: 17461</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.630000"><name>AFFERDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.670000"><name>DEEST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.700000"><name>HOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.720000"><name>WINSSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.780000"><name>WOLFEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.800000"><name>SLIUK EWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.830000"><name>OOSTERHOUT</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.880000"><name>VOSSENPELS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.930000"><name>ZANDHEUVEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.950000"><name>ZANDVOORT</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="5.970000"><name>KAPEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.000000"><name>HULHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.050000"><name>RANNEREEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.080000"><name>GEITENWAARD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.100000"><name>OSSENWAARD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.220000"><name>STOKKUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.250000"><name>'S-HEERENBERG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.270000"><name>LENGEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.300000"><name>GROOT AZEWIJN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.350000"><name>VELDHUNTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.400000"><name>ENGBERGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.420000"><name>VOORST</name><cmt>PROV: GELDERLAND, INW: 23736</cmt><desc>PROV: GELDERLAND, INW: 23736</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.470000"><name>BREEDENBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.500000"><name>DE HEURNE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.880000" lon="6.530000"><name>IJZERLO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.120000"><name>SCHAIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.300000"><name>BUURMALSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.350000"><name>ERICHEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.370000"><name>LUTTERVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.380000"><name>KERK-AVEZAATH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.470000"><name>DEN AKKER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.480000"><name>MEDEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.500000"><name>OOY0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.530000"><name>IJZENDOORN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.570000"><name>OCHTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.700000"><name>WELY</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.730000"><name>ANDELST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.750000"><name>HERVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.820000"><name>EIMEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.830000"><name>REETH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.870000"><name>RESSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.900000"><name>HET HOOG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.920000"><name>KLEIN BAAL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="5.970000"><name>FLIEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.000000"><name>HONDERDMORGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.020000"><name>STERRENSCHANS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.080000"><name>AERDT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.120000"><name>BABBERICH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.180000"><name>BEEK0</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.270000"><name>ZEDDAM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.300000"><name>KLEIN-AZEWIJN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.320000"><name>ZIEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.330000"><name>RAFELDER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.380000"><name>ULFT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.400000"><name>NIEUWDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.450000"><name>GROOT BREEDENBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.470000"><name>SINDEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.900000" lon="6.570000"><name>HEURNE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.330000"><name>BUREN</name><cmt>PROV: GELDERLAND, INW: 25609</cmt><desc>PROV: GELDERLAND, INW: 25609</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.400000"><name>ZOELEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.500000"><name>HOOGBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.600000"><name>ELDIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.650000"><name>DOODEWARD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.670000"><name>HIEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.800000"><name>VALBURG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.820000"><name>LIJNDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.850000"><name>ELST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.870000"><name>MERM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.880000"><name>BREDELAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.920000"><name>BERGERDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="5.970000"><name>ANGEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.070000"><name>OOY1</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.080000"><name>OUD-ZEVENAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.100000"><name>HOLTHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.120000"><name>GRIETH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.150000"><name>KWARTIER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.270000"><name>BRAAMT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.300000"><name>VETHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.320000"><name>WARM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.330000"><name>ETTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.350000"><name>TERBORG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.380000"><name>SILVOLDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.400000"><name>SILVOLDSCHE BUURT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.430000"><name>NIEUW OOSTENDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.630000"><name>HAART</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.670000"><name>BLEKKINK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.920000" lon="6.730000"><name>LAMMERS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.320000"><name>ZOELMOND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.480000"><name>OMMERENVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.500000"><name>HOOGMEIEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.520000"><name>MEERTENWEI</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.550000"><name>LEUTES</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.570000"><name>KESTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.630000"><name>OPHEUSDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.700000"><name>HEMMEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.720000"><name>ZETTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.800000"><name>HOMOET</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.830000"><name>SNODENHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.880000"><name>RIJKERSWOERD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.930000"><name>HUISSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.970000"><name>LOOVEER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="5.980000"><name>'T LOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.030000"><name>HELHOEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.070000"><name>ZEVENAAR</name><cmt>PROV: GELDERLAND, INW: 26155</cmt><desc>PROV: GELDERLAND, INW: 26155</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.130000"><name>OUD-DIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.150000"><name>NIEUW-DIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.170000"><name>HEIDE0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.220000"><name>LOERBEEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.230000"><name>KILDER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.320000"><name>WISCH</name><cmt>PROV: GELDERLAND, INW: 19599</cmt><desc>PROV: GELDERLAND, INW: 19599</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.350000"><name>GAANDEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.450000"><name>HEURNE0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.500000"><name>GROOT ENTINK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.520000"><name>LINTELOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.580000"><name>AALTEN</name><cmt>PROV: GELDERLAND, INW: 18811</cmt><desc>PROV: GELDERLAND, INW: 18811</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.720000"><name>WOOLD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.930000" lon="6.770000"><name>KOTTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.230000"><name>KUILENBURG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.280000"><name>DE HEUVEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.300000"><name>BEUSICHEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.330000"><name>RAVENSWAAY</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.350000"><name>ZANDBERG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.450000"><name>ZWARTE PAARD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.500000"><name>OMMEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.520000"><name>MEERTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.530000"><name>DE MARS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.550000"><name>LEDE-OUDEWAARD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.650000"><name>LAKEMOND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.720000"><name>RANDWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.820000"><name>KEULSE KAMP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.830000"><name>'T VLOT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.850000"><name>LAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.900000"><name>VREDENBURG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="5.970000"><name>SCHANS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.020000"><name>ENG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.120000"><name>GREFFELKAMP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.150000"><name>LOIL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.170000"><name>HOLTHUIZEN0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.200000"><name>HEIDEKANT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.220000"><name>PLANTAGE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.250000"><name>HET BROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.270000"><name>DICHTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.280000"><name>WIJNBERGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.320000"><name>OOSSELT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.420000"><name>WESTENDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.470000"><name>VARSSEVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.570000"><name>'T VELLEKEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.600000"><name>HOLLENBERG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.620000"><name>BREDEVOORT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.650000"><name>MISTE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.680000"><name>BRINKE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.950000" lon="6.730000"><name>BRINKHEURNE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.180000"><name>GOLBERDINGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.280000"><name>REDICHEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.350000"><name>RIJSWIJK</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.420000"><name>MAURIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.430000"><name>VALENTIJN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.450000"><name>WIEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.470000"><name>GANZERT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.480000"><name>INGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.500000"><name>ZEVENMORGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.520000"><name>BONTEMORGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.630000"><name>NUDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.670000"><name>WAGENINGEN</name><cmt>PROV: GELDERLAND, INW: 33987</cmt><desc>PROV: GELDERLAND, INW: 33987</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.730000"><name>RENKUM</name><cmt>PROV: GELDERLAND, INW: 32250</cmt><desc>PROV: GELDERLAND, INW: 32250</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.750000"><name>HETEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.820000"><name>HEVEADORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.870000"><name>DE PAS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.880000"><name>ELDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.920000"><name>MALBURGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="5.970000"><name>WESTERVOORT</name><cmt>PROV: GELDERLAND, INW: 16212</cmt><desc>PROV: GELDERLAND, INW: 16212</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.080000"><name>ZWEEKHORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.170000"><name>NIEUW-WEHL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.200000"><name>KLEINDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.220000"><name>WEHL</name><cmt>PROV: GELDERLAND, INW: 6721</cmt><desc>PROV: GELDERLAND, INW: 6721</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.230000"><name>MEERENBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.300000"><name>DOETINCHEM</name><cmt>PROV: GELDERLAND, INW: 48701</cmt><desc>PROV: GELDERLAND, INW: 48701</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.370000"><name>SLANGENBURG IJZEVOORDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.470000"><name>HEELWEG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.600000"><name>GROOT DEUNK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.670000"><name>CORLE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.970000" lon="6.720000"><name>WINTERSWIJK</name><cmt>PROV: GELDERLAND, INW: 28750</cmt><desc>PROV: GELDERLAND, INW: 28750</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="5.700000"><name>WAGENINGEN-HOOG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="5.750000"><name>HEELSUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="5.780000"><name>KIEVITSDEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="5.800000"><name>DOORWERTH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="5.850000"><name>OOSTERBEEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="5.900000"><name>PRAETS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="5.920000"><name>ARNHEM</name><cmt>PROV: GELDERLAND, INW: 140736</cmt><desc>PROV: GELDERLAND, INW: 140736</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.000000"><name>NIJGRAAF</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.020000"><name>LATUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.050000"><name>BAHR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.100000"><name>BINGERDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.180000"><name>ELDRIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.250000"><name>LANGERAK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.300000"><name>KRUISBERG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.350000"><name>HEIDENHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.370000"><name>PRIESTERINK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.400000"><name>NEIJENKAMP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.420000"><name>HALLE-NIJMAN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.430000"><name>HALLE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.520000"><name>HARREVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.530000"><name>DE SCHUTTERIJ</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.570000"><name>LICHTENVOORDE</name><cmt>PROV: GELDERLAND, INW: 19332</cmt><desc>PROV: GELDERLAND, INW: 19332</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.620000"><name>VRAGENDER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.750000"><name>HENZEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="51.980000" lon="6.820000"><name>RATUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.570000"><name>MIDDELBUURT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.650000"><name>NERGENA</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.680000"><name>BENNEKOM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.780000"><name>WOLFHEZE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VELP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.020000"><name>RHEDEN</name><cmt>PROV: GELDERLAND, INW: 44831</cmt><desc>PROV: GELDERLAND, INW: 44831</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.070000"><name>GIESBEEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.130000"><name>ANGERLO</name><cmt>PROV: GELDERLAND, INW: 4921</cmt><desc>PROV: GELDERLAND, INW: 4921</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.170000"><name>DREMT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.200000"><name>HOOG-KEPPEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.220000"><name>LAAG-KEPPEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.230000"><name>HUMMELO EN KEPPEL</name><cmt>PROV: GELDERLAND, INW: 4516</cmt><desc>PROV: GELDERLAND, INW: 4516</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.320000"><name>WINKELSHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.330000"><name>WASSINKBRINK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.350000"><name>ZELHEM</name><cmt>PROV: GELDERLAND, INW: 11169</cmt><desc>PROV: GELDERLAND, INW: 11169</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.500000"><name>DE WOPEREIS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.520000"><name>ZIEUWENT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.750000"><name>HUPPEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="5.600000"><name>DE KADE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="5.630000"><name>DE KRAATS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="5.670000"><name>HOEKELUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="5.970000"><name>ROZENDAAL</name><cmt>PROV: GELDERLAND, INW: 1529</cmt><desc>PROV: GELDERLAND, INW: 1529</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.050000"><name>STEEG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.130000"><name>DOESBURG</name><cmt>PROV: GELDERLAND, INW: 11476</cmt><desc>PROV: GELDERLAND, INW: 11476</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.180000"><name>ACHTERDREMPT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.280000"><name>WITTENBRINK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.300000"><name>VELSWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.330000"><name>OOSTERWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.380000"><name>MEENE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.450000"><name>HALLE-HEIDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.470000"><name>MARIENVELDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.600000"><name>LIEVELDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.020000" lon="6.700000"><name>MEDDOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="5.630000"><name>MANEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="5.670000"><name>EDE</name><cmt>PROV: GELDERLAND, INW: 103708</cmt><desc>PROV: GELDERLAND, INW: 103708</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="5.730000"><name>GINKEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="5.870000"><name>SCHAARSBERGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="5.900000"><name>KLEIN HEIDEKAMP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="6.100000"><name>ELLEKOM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="6.270000"><name>'T GOOI</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="6.300000"><name>KEYENBORG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="6.320000"><name>DUNSBORG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="6.450000"><name>HEURNE1</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="6.600000"><name>EEFSELE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.030000" lon="6.650000"><name>ZWOLLE</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="5.580000"><name>KLOMP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="5.650000"><name>DOES BURGER HUURT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="5.720000"><name>KREEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="5.770000"><name>NIEUW-REEMST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="5.820000"><name>OUD-REEMST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.120000"><name>SPANKEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.130000"><name>OLBURGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.150000"><name>RHA</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.220000"><name>TOLDIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.300000"><name>BEKVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.320000"><name>HENGELOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.420000"><name>VELDHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.480000"><name>'T RUURLOSE BROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.620000"><name>GROENLO</name><cmt>PROV: GELDERLAND, INW: 9415</cmt><desc>PROV: GELDERLAND, INW: 9415</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.050000" lon="6.680000"><name>ZWILBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="5.580000"><name>EDERVEEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="5.620000"><name>DOESBURG0</name><cmt>PROV: GELDERLAND, INW: 11476</cmt><desc>PROV: GELDERLAND, INW: 11476</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="5.700000"><name>DRIESPRONG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="5.780000"><name>MOSSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="5.900000"><name>DEELEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="5.950000"><name>TERLET</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.170000"><name>GROOT EMMER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.180000"><name>STEENDEREN</name><cmt>PROV: GELDERLAND, INW: 5037</cmt><desc>PROV: GELDERLAND, INW: 5037</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.200000"><name>COVIK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.230000"><name>BAKERMARK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.320000"><name>NOORDINK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.380000"><name>VARSSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.430000"><name>HAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.450000"><name>WINKELERHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.470000"><name>WISSINKHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.570000"><name>BELTRUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.070000" lon="6.580000"><name>AVEST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="5.480000"><name>SCHERPENZEEL</name><cmt>PROV: GELDERLAND, INW: 9073</cmt><desc>PROV: GELDERLAND, INW: 9073</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="5.620000"><name>LUNTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="5.950000"><name>GROENENDAAL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.070000"><name>LAAG-SOEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.130000"><name>LEUVENHEIM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.180000"><name>BRONKHORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.230000"><name>BAAK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.250000"><name>WICHMOND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.280000"><name>DELDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.350000"><name>LINDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.450000"><name>RUURLO</name><cmt>PROV: GELDERLAND, INW: 8336</cmt><desc>PROV: GELDERLAND, INW: 8336</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.480000"><name>NIEUWENHUISHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.500000"><name>BRINKMANSHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.550000"><name>LINTVELDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.620000"><name>HUPSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.080000" lon="6.670000"><name>HOLTERHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="5.520000"><name>LANGELAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="5.580000"><name>NEDERWOUD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="5.670000"><name>MEULUNTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="5.730000"><name>ROEKEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="5.780000"><name>OTTERLOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="5.950000"><name>WOESTE HOEVE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.030000"><name>ZILVEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.050000"><name>COLDENHOVE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.070000"><name>WILHELMINAPARK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.150000"><name>RIENDEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.170000"><name>BRUMMEN</name><cmt>PROV: GELDERLAND, INW: 21613</cmt><desc>PROV: GELDERLAND, INW: 21613</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.200000"><name>KORTENOEVER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.230000"><name>VIERAKKER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.320000"><name>VORDEN</name><cmt>PROV: GELDERLAND, INW: 8535</cmt><desc>PROV: GELDERLAND, INW: 8535</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.330000"><name>DE LEUKE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.370000"><name>KRANENBURG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.420000"><name>EVERWENNINKHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.470000"><name>BROUWERSHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.500000"><name>LEO-STICHTING</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.520000"><name>DIJKHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.550000"><name>WATERHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.620000"><name>OLDEN EIBERGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.650000"><name>EIBERGEN</name><cmt>PROV: GELDERLAND, INW: 16726</cmt><desc>PROV: GELDERLAND, INW: 16726</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.100000" lon="6.720000"><name>REKKEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="5.550000"><name>WALDERVEEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="5.630000"><name>OVERWOUD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="5.720000"><name>WEKEROM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="5.750000"><name>ESCHOTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="5.880000"><name>HOOG-BAARLO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="5.900000"><name>KRIM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.020000"><name>LOENEN OP DE VELUWE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.100000"><name>HALL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.150000"><name>OEKEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.200000"><name>BRUNSBERGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.320000"><name>VELDWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.380000"><name>MOSSEL0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.470000"><name>BOSCHHEURNE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.500000"><name>HEURNE2</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.520000"><name>BORKULO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.550000"><name>OVERBIEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.580000"><name>HAARLO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.620000"><name>HOONTE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.670000"><name>MALLUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.120000" lon="6.680000"><name>LOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.130000" lon="5.580000"><name>BARNEVELD</name><cmt>PROV: GELDERLAND, INW: 48958</cmt><desc>PROV: GELDERLAND, INW: 48958</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.130000" lon="5.600000"><name>ESVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.130000" lon="5.680000"><name>VALK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WESTENENK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HARTSKAMP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TONDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VOORSTONDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZUTPHEN</name><cmt>PROV: GELDERLAND, INW: 36179</cmt><desc>PROV: GELDERLAND, INW: 36179</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OOYERHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WARKEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BARCHEM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>RESPELHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>GEESTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>NEDERBIEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>NEEDE</name><cmt>PROV: GELDERLAND, INW: 11021</cmt><desc>PROV: GELDERLAND, INW: 11021</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KALLENBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WESSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KOOTWIJKERBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DRIEENHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BEEKBERGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OOSTERHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KLEIN AMSTERDAM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>EMPE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WARNSVELD</name><cmt>PROV: GELDERLAND, INW: 9121</cmt><desc>PROV: GELDERLAND, INW: 9121</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ALMEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KLEIN DOCHTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZWIEP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KULSDOM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>LEMPERHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>NOORDIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>LOOHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>RIETMOLEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>HOEVELAKEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>KLAARWATER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TERSCHUUR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HARSELAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GARDERERBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ESSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ENGELAND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LIEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KLARENBEEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NOORD-EMPE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VOORST0</name><cmt>PROV: GELDERLAND, INW: 23736</cmt><desc>PROV: GELDERLAND, INW: 23736</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>EEFDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GROOT DOCHTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LOCHEM</name><cmt>PROV: GELDERLAND, INW: 19413</cmt><desc>PROV: GELDERLAND, INW: 19413</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>AMSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ARMHOEDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NETTELHORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>GELSELAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="7.000000"><name>DE DENNENHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZWARTEBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>APPEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZEUMEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VOORTHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>STROE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KOOTWIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOOG-BUURLO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GIETELO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>QUATRE BRAS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>EXEL-TOL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>EXEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>HOLKERVEEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>NIJKERKERVEEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>SLICHTENHORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DRIEDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>'T WOUD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ASSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DE KAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BUSSLOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GORSSEL</name><cmt>PROV: GELDERLAND, INW: 13375</cmt><desc>PROV: GELDERLAND, INW: 13375</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>JOPPE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HARFSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LAREN</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>ACHTERHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>VEENHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>HOLK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>NIJKERK</name><cmt>PROV: GELDERLAND, INW: 37327</cmt><desc>PROV: GELDERLAND, INW: 37327</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WULLENHOVEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>RENSELAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GERVEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VEENHUIZERVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BATO'S ERF</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OUD-MILLIGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VOSSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NIEUW-MILLIGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOOG-SOEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>APELDOORN</name><cmt>PROV: GELDERLAND, INW: 154859</cmt><desc>PROV: GELDERLAND, INW: 154859</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DE VOORWAARTS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WOUDHUIS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WILP-ACHTERHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>POSTERENK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WILP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>EPSE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KRING VAN DORTH</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OOLDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VERWOLDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>DOORNSTEEG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HELL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HUINERBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HUINERWAL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KRACHTIGHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KOUDHOORN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GARDEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OUWENDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>MEERVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TEUGE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TWELLO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>NEKKEVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DIERMEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOEF</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HALVINKHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOUTDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DE BEEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WENUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BEEMTE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>STEENENKAMER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BIJSTEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>PUTTEN</name><cmt>PROV: GELDERLAND, INW: 23161</cmt><desc>PROV: GELDERLAND, INW: 23161</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NORDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DRIE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>SPEULDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>UDDEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WIESSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BROEKLAND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DE VECHT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>'T OEVER</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>STAVERDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KLEINE KOLONIE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NIERSEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VASEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OOSTERHOF</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VASENSE BROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TERWOLTE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TELGT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ERMELO</name><cmt>PROV: GELDERLAND, INW: 26760</cmt><desc>PROV: GELDERLAND, INW: 26760</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LEUVENUM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GROTE KOLONIE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ELSPEET</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>'T LAAR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HEGGE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GEERSTRAAT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NIJBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="5.000000"><name>HANENDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>GORTEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>SCHAVEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WESTENDORP0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LOOBRINK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WIJNBERGEN0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TONSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VIERHOUTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LAARSTRAAT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZUUK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BOSHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HARDERWIJK</name><cmt>PROV: GELDERLAND, INW: 40399</cmt><desc>PROV: GELDERLAND, INW: 40399</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>FRANKRIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HIERDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DUINEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>TONGEREN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WISSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>EPE</name><cmt>PROV: GELDERLAND, INW: 33224</cmt><desc>PROV: GELDERLAND, INW: 33224</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DIJKHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OOSTER OENE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OENERDIJK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HULSHORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZWARTE GOOR</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VEMDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HORSTHOEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>MARKLUIDEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOOPHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOOGE BIJSSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NUNSPEET</name><cmt>PROV: GELDERLAND, INW: 26317</cmt><desc>PROV: GELDERLAND, INW: 26317</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZOOM</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HORSTHOEKERVELD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HEERDE</name><cmt>PROV: GELDERLAND, INW: 17997</cmt><desc>PROV: GELDERLAND, INW: 17997</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VESEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LAGE BIJSSEL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WESSINGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DELLEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BAKHUISBOS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KOLTHOORN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOORN</name><cmt>PROV: GELDERLAND, INW: ONBEKEND</cmt><desc>PROV: GELDERLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VORCHTEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WERFHORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>'T HARDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WOLBERT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HOOGE ENK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>APERLOO</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BOVENVEEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>MULLEGEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ACHTER DE VREE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WAPENVELDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>NIEUWSTAD</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OOSTENDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZUIDERROT</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OOSTERWOLDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>SPRONK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>LAPSTREEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>'T LOO0</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>BERGHUIZEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>ZWARTEWEG</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>OLDHORST</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>DUIVENDANS</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>WEZEP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HATTEMERBROEK</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>MOLEKATEN</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>HATTEM</name><cmt>PROV: GELDERLAND, INW: 11693</cmt><desc>PROV: GELDERLAND, INW: 11693</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>KERKDORP</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.000000" lon="6.000000"><name>VOSKUIL</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>'T ZAND</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="6.000000"><name>NOORDEINDE</name><cmt>PROV: GELDERLAND, INW: -</cmt><desc>PROV: GELDERLAND, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>

@@ -1,0 +1,432 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.0" creator="GPS Utility 4.10 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.180000" lon="5.150000"><name>EGELSHOEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="4.570000"><name>BUITENKAAG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="4.600000"><name>HUIGSLOOT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="4.650000"><name>WETERINGBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.220000" lon="4.770000"><name>DE BANKEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.600000"><name>ABBENES</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.670000"><name>LEIMUIDERBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.680000"><name>BURGERVEEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.730000"><name>KALSLAGEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.750000"><name>KUDELSTAART</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.780000"><name>VROUWENAKKER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.800000"><name>KWAKEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="4.830000"><name>VITHOORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="5.080000"><name>KORTENHOEF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="5.120000"><name>'S GRAVENLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.230000" lon="5.180000"><name>HILVERTSHEIM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="4.570000"><name>LISSERBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="4.650000"><name>'T KABEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="4.770000"><name>VROUWENTROOST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="4.920000"><name>WAVER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="5.050000"><name>OVERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="5.080000"><name>HORSTERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="5.120000"><name>ANKEVEENSE RADE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="5.220000"><name>SINT JANSKERKHOF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.250000" lon="5.230000"><name>LAREN</name><cmt>PROV: NOORD-HOLLAND, INW: 11862</cmt><desc>PROV: NOORD-HOLLAND, INW: 11862</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="4.630000"><name>VENNEPERDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="4.720000"><name>RIJSENHOUT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="4.750000"><name>AALSMEERDERBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="4.770000"><name>AALSMEER</name><cmt>PROV: NOORD-HOLLAND, INW: 22786</cmt><desc>PROV: NOORD-HOLLAND, INW: 22786</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="4.880000"><name>ZWALUWENBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="5.050000"><name>NEDERHORST DEN BERG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="5.100000"><name>ANKEVEEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.270000" lon="5.200000"><name>KRAAILOO</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="4.730000"><name>ROZENBURG</name><cmt>PROV: NOORD-HOLLAND, INW: ONBEKEND</cmt><desc>PROV: NOORD-HOLLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="4.770000"><name>OUDE MEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="4.800000"><name>OOSTEINDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="5.070000"><name>HINDERDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="5.120000"><name>HOLLANDSCH ANKEVEEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="5.200000"><name>BUSSUM</name><cmt>PROV: NOORD-HOLLAND, INW: 31014</cmt><desc>PROV: NOORD-HOLLAND, INW: 31014</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="5.250000"><name>HUIZERHOOGT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.280000" lon="5.280000"><name>DE BIJVANG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="4.700000"><name>HOOFDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="4.720000"><name>DE HOEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="4.750000"><name>SCHIPHOL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="4.850000"><name>BOVENKERK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="4.870000"><name>NIEUWER AMSTEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="4.900000"><name>OUDERKERK AAN DE AMSTEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="5.020000"><name>DRIEMOND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="5.070000"><name>DE HORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="5.080000"><name>UITERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="5.150000"><name>NAARDEN</name><cmt>PROV: NOORD-HOLLAND, INW: 16960</cmt><desc>PROV: NOORD-HOLLAND, INW: 16960</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="5.200000"><name>OUD VALKEVEEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.300000" lon="5.230000"><name>HUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: 42230</cmt><desc>PROV: NOORD-HOLLAND, INW: 42230</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="4.580000"><name>VOGELENZANG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="4.600000"><name>BENNEBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: 5329</cmt><desc>PROV: NOORD-HOLLAND, INW: 5329</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="4.620000"><name>ZWAANSHOEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="4.670000"><name>WEBERBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="5.030000"><name>WEESP</name><cmt>PROV: NOORD-HOLLAND, INW: 17958</cmt><desc>PROV: NOORD-HOLLAND, INW: 17958</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="5.100000"><name>NAARDERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.320000" lon="5.180000"><name>VALKEVEEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="4.620000"><name>GLIP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="4.630000"><name>CRUQUIUS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="4.780000"><name>BADHOEZEDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="4.820000"><name>NIEUWE MEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="4.920000"><name>DUIVENDRECHT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="4.970000"><name>DIEMERBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="5.000000"><name>OVER-DIEMEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="5.070000"><name>MUIDEN</name><cmt>PROV: NOORD-HOLLAND, INW: 6726</cmt><desc>PROV: NOORD-HOLLAND, INW: 6726</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.330000" lon="5.120000"><name>MUIDERBERG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="4.620000"><name>HEEMSTEDE</name><cmt>PROV: NOORD-HOLLAND, INW: 25898</cmt><desc>PROV: NOORD-HOLLAND, INW: 25898</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="4.630000"><name>ZUID-SCHALKWIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="4.680000"><name>VIJFHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="4.770000"><name>LIJNDEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="4.800000"><name>SLOTEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="4.920000"><name>AMSTERDAM</name><cmt>PROV: NOORD-HOLLAND, INW: 735526</cmt><desc>PROV: NOORD-HOLLAND, INW: 735526</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.350000" lon="4.970000"><name>OUDE DIEMEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="4.530000"><name>ZANDVOORT</name><cmt>PROV: NOORD-HOLLAND, INW: 16809</cmt><desc>PROV: NOORD-HOLLAND, INW: 16809</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="4.580000"><name>BENTVELD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="4.600000"><name>AERDENHOUT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="4.650000"><name>HAARLEM</name><cmt>PROV: NOORD-HOLLAND, INW: 147831</cmt><desc>PROV: NOORD-HOLLAND, INW: 147831</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="4.670000"><name>SCHALKWIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="4.720000"><name>BOESINGHELIEDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.370000" lon="4.780000"><name>OSDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="4.600000"><name>TUINDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="4.680000"><name>PENNINGSVEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="4.720000"><name>VINKEBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="4.750000"><name>ZWANENBURG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="4.850000"><name>SLOTERDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="4.950000"><name>NIEUWENDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="4.970000"><name>SCHELLINGWOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.380000" lon="5.000000"><name>DURGERDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="4.600000"><name>OVERVEEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="4.620000"><name>BLOEMENDAAL</name><cmt>PROV: NOORD-HOLLAND, INW: 17097</cmt><desc>PROV: NOORD-HOLLAND, INW: 17097</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="4.700000"><name>SPAARNWOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="4.920000"><name>BUIKSLOOT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="4.970000"><name>ZUNDERDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.400000" lon="5.000000"><name>RANSDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="4.630000"><name>SANTPOORT-ZUID</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="4.680000"><name>SPAARNDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="4.830000"><name>HEMBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="4.900000"><name>TUINDORP OOSTZAAN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="4.950000"><name>SCHOUW</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="4.970000"><name>'T NOPEIND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="5.030000"><name>HOLYSLOOT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.420000" lon="5.070000"><name>UITDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="4.650000"><name>SANTPOORT-NOORD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="4.720000"><name>BUITENHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="4.780000"><name>WESTZANER-OVERTOOM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="4.920000"><name>LANDSMEER</name><cmt>PROV: NOORD-HOLLAND, INW: 10296</cmt><desc>PROV: NOORD-HOLLAND, INW: 10296</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="4.950000"><name>WATERGANG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="5.000000"><name>BROEK IN WATERLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.430000" lon="5.030000"><name>ZUIDERWOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="4.630000"><name>DRIEHUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="4.670000"><name>HOFGEEST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="4.750000"><name>NAUWERNA</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="4.830000"><name>ZAANSTAD</name><cmt>PROV: NOORD-HOLLAND, INW: 137669</cmt><desc>PROV: NOORD-HOLLAND, INW: 137669</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="4.870000"><name>OOSTZAAN</name><cmt>PROV: NOORD-HOLLAND, INW: 9062</cmt><desc>PROV: NOORD-HOLLAND, INW: 9062</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="4.920000"><name>ILP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="4.980000"><name>KLEIN-OVERLEEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="5.100000"><name>WITTEWERF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.450000" lon="5.120000"><name>ROZEWERF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.600000"><name>YMUIDEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.630000"><name>VELZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.650000"><name>VELZEROORD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.750000"><name>ASSENDELFT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.770000"><name>WESTZAAN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.800000"><name>KOOG AAN DE ZAAN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.830000"><name>'T KALF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.880000"><name>HAAL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="4.950000"><name>ILPENDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="5.030000"><name>MONNIKENDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="5.050000"><name>KATWOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.470000" lon="5.100000"><name>MONNIKENWERF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="4.650000"><name>BEVERWIJK</name><cmt>PROV: NOORD-HOLLAND, INW: 35780</cmt><desc>PROV: NOORD-HOLLAND, INW: 35780</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="4.770000"><name>MIDDEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="4.800000"><name>ZAANDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="4.830000"><name>HAALDERSBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="4.930000"><name>PURMERLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="5.030000"><name>ZEDDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.480000" lon="5.070000"><name>KATHAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.600000"><name>WIJK AAN ZEE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.630000"><name>HEEMSKERKERDUIN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.650000"><name>WATERAKKERS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.750000"><name>BUSCH EN DAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.770000"><name>KROMMENIE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.820000"><name>WORMER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.950000"><name>WIJDEWORMER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="4.980000"><name>PURMERBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.500000" lon="5.070000"><name>VOLENDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.650000"><name>COMMANDEURS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.670000"><name>HEEMSKERK</name><cmt>PROV: NOORD-HOLLAND, INW: 36281</cmt><desc>PROV: NOORD-HOLLAND, INW: 36281</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.700000"><name>ASSUM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.770000"><name>KROMMENIEDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.780000"><name>WEST-KNOLLENDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.800000"><name>OOST-KNOLLENDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.850000"><name>JISP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.920000"><name>NECK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="4.950000"><name>ZUIDOOSTBEEMSTER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.520000" lon="5.050000"><name>EDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.650000"><name>NOORDDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.720000"><name>UITGEEST</name><cmt>PROV: NOORD-HOLLAND, INW: 11768</cmt><desc>PROV: NOORD-HOLLAND, INW: 11768</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.730000"><name>GROOT DORREGEEST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.770000"><name>STIEROP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.780000"><name>MARKENBINNEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.830000"><name>SPIJKERBOOR</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.930000"><name>HALFWEG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.970000"><name>VERLOREN EINDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="4.980000"><name>KWADIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.530000" lon="5.020000"><name>MIDDELIE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.600000"><name>CASTRICUM AAN ZEE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.670000"><name>KASTRIKUM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.680000"><name>OOSTERBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.720000"><name>LIMMERKOOG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.730000"><name>STARTING</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.780000"><name>DE WOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.800000"><name>WEST GRASTDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.820000"><name>OOST-GRAFTDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.920000"><name>MIDDENBEEMSTER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.550000" lon="4.980000"><name>HOBREEDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.650000"><name>DUIN EN BOSCH</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.670000"><name>ZUIDBAKKUM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.680000"><name>WESTERZIJ</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.700000"><name>DUSSELDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.730000"><name>AKERSLOOT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.830000"><name>NOORDEINDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.850000"><name>RIJP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.870000"><name>KLATERBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.900000"><name>WESTBEEMSTER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="4.980000"><name>OOSTBEEMSTER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="5.000000"><name>OOSTHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.570000" lon="5.020000"><name>WARDER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.670000"><name>NOORD-BAKKUM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.680000"><name>KAPEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.700000"><name>OOSTERZIJ</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.750000"><name>BOEKEL</name><cmt>PROV: NOORD-HOLLAND, INW: ONBEKEND</cmt><desc>PROV: NOORD-HOLLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.780000"><name>ZUIDSCHERMER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.820000"><name>DRIEHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.850000"><name>GROOTSCHERMER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.950000"><name>NOORDBEEMSTER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="4.980000"><name>BEETS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.580000" lon="5.020000"><name>ETERSHEIM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="4.650000"><name>EGMOND-BINNEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="4.700000"><name>HEILOO</name><cmt>PROV: NOORD-HOLLAND, INW: 21976</cmt><desc>PROV: NOORD-HOLLAND, INW: 21976</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="4.880000"><name>SCHERMERHORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="4.930000"><name>OOSTMIJZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="4.970000"><name>OUDENDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.600000" lon="5.020000"><name>SCHARDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="4.630000"><name>EGMOND AAN ZEE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="4.650000"><name>RINNEGUM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="4.780000"><name>OMVAL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="4.820000"><name>STOMPETOREN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="4.900000"><name>WESTMIJZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="4.950000"><name>KATHOEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="4.970000"><name>GROSTHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.620000" lon="5.020000"><name>SCHARWOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.650000"><name>WIMMENUM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.750000"><name>ALKMAAR</name><cmt>PROV: NOORD-HOLLAND, INW: 92992</cmt><desc>PROV: NOORD-HOLLAND, INW: 92992</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.780000"><name>OUDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.830000"><name>OTERLEEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.880000"><name>RUSTENBURG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.900000"><name>URSEM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.930000"><name>ZUID-SPIERDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="4.950000"><name>GOORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="5.000000"><name>BERKHOUT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="5.020000"><name>DE HULK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="5.120000"><name>SCHELLINKHOUT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="5.150000"><name>WIJDENES</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.630000" lon="5.200000"><name>OOSTERLEEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.670000"><name>WOUD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.750000"><name>HUISWAARD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.780000"><name>ZUIDEINDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.820000"><name>BUTTERHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.850000"><name>'T KRUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.880000"><name>HENSBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.920000"><name>WOGMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="4.950000"><name>SPIERDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="5.000000"><name>BOBELDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="5.070000"><name>HOORN</name><cmt>PROV: NOORD-HOLLAND, INW: 66458</cmt><desc>PROV: NOORD-HOLLAND, INW: 66458</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="5.150000"><name>WIJMERS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="5.180000"><name>LEEKERWEG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.650000" lon="5.220000"><name>WEED</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.630000"><name>BERGEN AAN ZEE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.700000"><name>OOSTDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.750000"><name>KOEDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.780000"><name>SINT PANKRAS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.820000"><name>BROEK OP LANGENDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.850000"><name>HEERHUGOWAARD</name><cmt>PROV: NOORD-HOLLAND, INW: 46471</cmt><desc>PROV: NOORD-HOLLAND, INW: 46471</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.870000"><name>DRAAI</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.950000"><name>NOORD-SPIERDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="4.980000"><name>ZUIDERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.000000"><name>BAARSDORPERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.020000"><name>LEKERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.070000"><name>ZWAAG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.100000"><name>WESTERBLOKKER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.120000"><name>OOSTERBLOKKER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.180000"><name>HEM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.220000"><name>VENHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: 7863</cmt><desc>PROV: NOORD-HOLLAND, INW: 7863</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.670000" lon="5.230000"><name>TERSLUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="4.700000"><name>AAGTDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="4.720000"><name>ZANEGEEST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="4.820000"><name>ZUID-SCHARWOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="4.900000"><name>OBDAM</name><cmt>PROV: NOORD-HOLLAND, INW: 6503</cmt><desc>PROV: NOORD-HOLLAND, INW: 6503</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="4.950000"><name>ZANDWERVEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="4.980000"><name>NOORDERMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.030000"><name>WOGNUM</name><cmt>PROV: NOORD-HOLLAND, INW: 8039</cmt><desc>PROV: NOORD-HOLLAND, INW: 8039</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.050000"><name>ZWAAGDIJK-WEST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.120000"><name>OUDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.130000"><name>ZITTEND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.150000"><name>BINNENWIJZEND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.170000"><name>WESTERWIJZEND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.180000"><name>OOSTERWIJZEND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.680000" lon="5.230000"><name>OOSTERGOUW</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.700000"><name>SCHOORL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.720000"><name>SCHOORLDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.800000"><name>OUDKARSPEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.820000"><name>NOORD-SCHARWOUDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.830000"><name>PANNEKEET</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.900000"><name>VEENHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.950000"><name>SPANBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="4.980000"><name>WADWEI</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.000000"><name>SIJBEKARSPEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.020000"><name>MOLENBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.030000"><name>BENNINGBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.050000"><name>WIJZEND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.070000"><name>NIBBIXWOUD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.130000"><name>ZWAAGDIJK-OOST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.200000"><name>LUTJEBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.220000"><name>GROOTEBROEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.700000" lon="5.250000"><name>BROEKERHAVEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="4.670000"><name>HARGER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="4.680000"><name>KATRIJP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="4.850000"><name>VERLAAT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="4.870000"><name>FRIK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="4.880000"><name>OUDE-NIEDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="4.900000"><name>TERDIEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="4.930000"><name>HOOGWOUD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="5.070000"><name>MIDWOUD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="5.100000"><name>HAUWERT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.720000" lon="5.280000"><name>ENKHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: 17076</cmt><desc>PROV: NOORD-HOLLAND, INW: 17076</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.650000"><name>CAMPERDUIN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.680000"><name>ZIJPESLUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.700000"><name>KRABBENDAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.730000"><name>WARMENHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.750000"><name>TUITJENHORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.770000"><name>KERKBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.780000"><name>HARENKARSPEL</name><cmt>PROV: NOORD-HOLLAND, INW: 15355</cmt><desc>PROV: NOORD-HOLLAND, INW: 15355</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.830000"><name>WAARLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.850000"><name>ZIJDEWINNE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.870000"><name>VELD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.900000"><name>NIEUWE-NIEDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.920000"><name>LANGEREIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="4.970000"><name>GOUWE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.000000"><name>HARDERWIJK</name><cmt>PROV: NOORD-HOLLAND, INW: ONBEKEND</cmt><desc>PROV: NOORD-HOLLAND, INW: ONBEKEND</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.020000"><name>ABBEKERK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.070000"><name>BOERDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.080000"><name>OOSTWOUD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.120000"><name>VELDHUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.170000"><name>WERVERSHOOF</name><cmt>PROV: NOORD-HOLLAND, INW: 8468</cmt><desc>PROV: NOORD-HOLLAND, INW: 8468</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.730000" lon="5.180000"><name>DE BANGERT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.650000"><name>LEIHOEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.680000"><name>MENNONIETENBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.700000"><name>BURGERBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.750000"><name>RIJP0</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.770000"><name>STROET</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.780000"><name>DIRKSHORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.830000"><name>BLOKHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.870000"><name>DE KAMPEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.920000"><name>WINKEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="4.950000"><name>AARTWOUD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.020000"><name>LAMBERTSCHAAG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.070000"><name>TWIST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.130000"><name>ONDERDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.180000"><name>KERKBUURT0</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.200000"><name>GEUZENBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.220000"><name>ANDIJK OOST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.750000" lon="5.270000"><name>OOSTERDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.670000"><name>PETTEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.750000"><name>SINT MAARTEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.780000"><name>GROENVELD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.800000"><name>TOLKE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.830000"><name>HARINGHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.850000"><name>MOERBEEK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.870000"><name>WATERINGSKANT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="4.880000"><name>WEERE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="5.080000"><name>OPPERDOES</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.770000" lon="5.100000"><name>MEDEMBLIK</name><cmt>PROV: NOORD-HOLLAND, INW: 7671</cmt><desc>PROV: NOORD-HOLLAND, INW: 7671</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.670000"><name>HET KORFWATER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.700000"><name>SINT MAARTENSZEE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.720000"><name>SINT MAARTENSVLOTBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.730000"><name>SINT MAARTENSBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.770000"><name>VALKOOG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.800000"><name>SCHAGEN</name><cmt>PROV: NOORD-HOLLAND, INW: 17214</cmt><desc>PROV: NOORD-HOLLAND, INW: 17214</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.820000"><name>GROTEWAL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.830000"><name>TIN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.780000" lon="4.850000"><name>BARSINGERHORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.750000"><name>'T BUURTJE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.770000"><name>SCHAGERBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.780000"><name>LAGEDIJK</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.800000"><name>KEINSE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.830000"><name>'T WAD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.850000"><name>POOLLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.870000"><name>KREIL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="4.900000"><name>KOLHORN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.800000" lon="5.000000"><name>MIDDENMEER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="4.730000"><name>STOLPERVLOTBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.820000" lon="4.780000"><name>KEINSMERBRUG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="4.700000"><name>KALLENSOOG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="4.750000"><name>ZAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="4.820000"><name>OUDESLUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="4.850000"><name>MOLENS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="4.870000"><name>WIERINGERWAARD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="4.900000"><name>WIERINGERWAARD0</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.830000" lon="5.020000"><name>WIERINGERWERF-ZUID</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="4.720000"><name>ABBESTEDE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="4.970000"><name>SLOOTDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.030000"><name>WIERINGERWERF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.850000" lon="5.080000"><name>KREILEROORD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="4.720000"><name>GROOTE KEETEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="4.820000"><name>SPOORBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.870000" lon="4.870000"><name>KLEINE SLUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="4.800000"><name>GELDERSE BUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="4.880000"><name>VAN EWYCKSLUIS</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.880000" lon="4.930000"><name>WESTERLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.720000"><name>DE ZANDLOPER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.750000"><name>JULIANADORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.780000"><name>BLAUWE KEET</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.920000"><name>DAM</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.930000"><name>NOORDERBUURT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.950000"><name>WESTERKLIEF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.970000"><name>OOSTERKLIEF</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.900000" lon="4.980000"><name>ELFT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="4.800000"><name>DE KOOY</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.920000" lon="4.970000"><name>ZANDBUREN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="4.970000"><name>NOORDSTROE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="4.980000"><name>STROE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.000000"><name>VATROP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.020000"><name>OOSTERLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.930000" lon="5.030000"><name>OEVER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.950000" lon="4.730000"><name>HUISDUINEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="52.970000" lon="4.770000"><name>HELDER</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.000000" lon="4.780000"><name>'T HORNTJE</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="4.750000"><name>HOORN0</name><cmt>PROV: NOORD-HOLLAND, INW: 66458</cmt><desc>PROV: NOORD-HOLLAND, INW: 66458</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="4.780000"><name>NOORDHAFFEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="4.800000"><name>ZUIDHAPPEL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="4.820000"><name>WESTERGEEST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.030000" lon="4.870000"><name>OUDESCHILD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="4.750000"><name>DE WESTEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="4.780000"><name>DRIEHUIZEN0</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="4.800000"><name>DEN BURG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.050000" lon="4.870000"><name>DIJKMANSHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="4.770000"><name>WESTERMIENT</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="4.800000"><name>TIENHOVEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="4.820000"><name>WAAL</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.070000" lon="4.850000"><name>SPANG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="4.830000"><name>BARGEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="4.850000"><name>SPIJKDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="4.870000"><name>NES</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.080000" lon="4.880000"><name>ZEVENHUIZEN</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="4.770000"><name>KOOG</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="4.780000"><name>KOOGERVELD</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.100000" lon="4.900000"><name>OOST</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.120000" lon="4.820000"><name>ZUID-EIERLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.130000" lon="4.870000"><name>MIDDEN-EIERLAND</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+<wpt lat="53.150000" lon="4.870000"><name>DE COCKSDORP</name><cmt>PROV: NOORD-HOLLAND, INW: -</cmt><desc>PROV: NOORD-HOLLAND, INW: -</desc><sym>Medium City</sym></wpt>
+
+</gpx>
